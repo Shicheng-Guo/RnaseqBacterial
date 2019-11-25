@@ -4,3 +4,12 @@ Shicheng Guo, Sanjay Shukla
 
 #### Abstract
 [Background] xxx [Stduy design] xxx [Result] xxx [Conclusion]
+
+
+#### Update:
+* 11/25/2019: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/report
+* 11/23/2019: Further Discuss methylation in MS project with Sanjay
+* 11/23/2019: Discuss methylation in MS project with Sanjay
+* 11/22/2019: Discuss RNA-seq project with Sanjay
+
+
