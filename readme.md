@@ -10,7 +10,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 #### Update:
 * check the raw data: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/data/all_samples/*.fastq
 * 12/09/2019: [IRB approved](Outcome_Letter_SUL10110_IRB00000673.pdf): Role of Putative Toxin Genes in Infections due to Community Associated MRSA
-* 11/25/2019: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/data/all_samples/*.fastq
+* 11/27/2019: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/data/all_samples/*.fastq
 * 11/25/2019: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/report
 * 11/25/2019: Terrie works to add me to IRB of Sanjay's `SUL10110`
 * 11/23/2019: Further Discuss methylation in MS project with Sanjay
