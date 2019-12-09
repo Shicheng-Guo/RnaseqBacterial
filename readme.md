@@ -7,7 +7,7 @@ Shicheng Guo, Sanjay Shukla
 
 
 #### Update:
-* 12/09/2019: IRB approved: Role of Putative Toxin Genes in Infections due to Community Associated MRSA
+* 12/09/2019: [IRB approved](Outcome_Letter_SUL10110_IRB00000673.pdf): Role of Putative Toxin Genes in Infections due to Community Associated MRSA
 * 11/25/2019: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/data/all_samples/*.fastq
 * 11/25/2019: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/report
 * 11/25/2019: Terrie works to add me to IRB of Sanjay's `SUL10110`
