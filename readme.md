@@ -3,8 +3,13 @@
 Shicheng Guo, Sanjay Shukla
 
 #### Abstract
-[Background] xxx [Stduy design] xxx [Result] xxx [Conclusion]
 
+#### Structure of the Analysis
+
+Sanjay introduced the research background and I proposed 3 analysis strategies and aims (12/09/2019)
+* transcriptome different between wound tissues and normal tissues (skin and immnune cells)
+* bacterial transcript nework and host transcript network correlation
+* deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
 * 12/09/2019: [IRB approved](Outcome_Letter_SUL10110_IRB00000673.pdf): Role of Putative Toxin Genes in Infections due to Community Associated MRSA
