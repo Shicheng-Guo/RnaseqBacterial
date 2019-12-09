@@ -2,10 +2,6 @@
 
 Shicheng Guo, Sanjay Shukla
 
-#### Abstract
-
-#### Structure of the Analysis
-
 Sanjay introduced the research background and I proposed 3 analysis strategies and aims (12/09/2019)
 * transcriptome different between wound tissues and normal tissues (skin and immnune cells)
 * bacterial transcript nework and host transcript network correlation
