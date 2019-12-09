@@ -1,6 +1,6 @@
 ### RNA-seq data to reveal novel response mechanism to bacterial mRNA from host wound tissues
 
-Shicheng Guo, Sanjay Shukla
+Shicheng Guo, Sanjay Shukla, 2019
 
 Sanjay introduced the research background and I proposed 3 analysis strategies and aims (12/09/2019)
 * transcriptome different between wound tissues and normal tissues (skin and immnune cells)
