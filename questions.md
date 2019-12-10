@@ -1,0 +1,1 @@
+* Skin and soft tissue infections (SSTIs) are clinical entities of variable presentation, etiology and severity that involve microbial invasion of the layers of the skin and underlying soft tissues. SSTIs range from mild infections, such as pyoderma, to serious life-threatening infections, such as necrotizing fasciitis.
