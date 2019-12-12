@@ -8,6 +8,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
+* 12/12/2019: Sanjay sent me the [clinical information](https://github.com/Shicheng-Guo/RnaseqBacterial/blob/master/extdata/Subject%20Info%20Abscess%20Study%20no%20MRN.xlsx) without connection file between filename and sampleid
 * 12/10/2019: [24 sample id](./extdata/S24_id.txt) is extracted and wait for clinical information(`urgent`).
 * check the raw data: /mnt/bigdata/Genetic/Projects/Shukla_cDNA/data/all_samples/*.fastq
 * 12/09/2019: [IRB approved](Outcome_Letter_SUL10110_IRB00000673.pdf): Role of Putative Toxin Genes in Infections due to Community Associated MRSA
