@@ -1,1 +1,31 @@
-
+Sample ID	Madison ID	Gender	Age	Site infection	Size infection	Severity	S. Aureus confirmed by latex test	mecA PCR	Notes
+MSSA 002		M	22	upper mid back	14 mm	mild	Positive	Negative	
+MRSA 003		M	22	right hand middle finger	6 x 2.5 cm	severe	Positive	Positive	
+MRSA 005		M	71	right lateral testicle	10x7 cm	severe	Positive	Positive	
+MRSA 007		F	22	right anterior skin	14x13 cm	severe	Positive	Positive	
+MSSA 012		F	76	left foot third toe	1x2 cm	mild	Positive	Negative	
+MRSA 016		F	61	left armpit	1x1 cm	mild	Positive	Positive	
+MRSA 017		M	54	medial left calf	0.5 cm	mild	Positive	Positive	
+MRSA 018		M	54	left leg	7 cm	severe	Positive	Positive	
+MRSA 019		M	69	right pectoralis	3x2 cm	severe	Positive	Positive	
+MRSA 021		F	62	left axilla/armpit	7 cm diameter 	mild (discharged)	Positive	Positive	2 lesions, No systemic symptoms, normal WBC, No IV abx in ED, home on clinda
+MRSA 023		F	22	posterior left calf	20 cm x 15 cm total  (4 cm of fluctuance) 	mild (discharged)	Positive	Positive	No sytemic symptoms, no WBC elevation, No IV abx in ED, home on clinda
+MRSA 024		M	62	right buttock	2 cm x 1 cm	mild (discharged)	Positive	Positive	2 lesions, No systemic symptoms, normal WBC, IV vanco in ED, home on doxycycline
+MSSA 026		M	26	abdominal wall	18 cm x 13cm	moderate	Positive	Negative	Low grade fever, elevated WBC (13.2), IV vanco in ED, home on bactrim/keflex
+MRSA 027		F	46	upper back	10x10cm	moderate	Positive	Positive	hx of recurrent abscesses, 2 lesions, hx HIV, normal WBC, subjective chills no fevers, home on doxy/keflex, no IV abx in ED
+MSSA 028		F	61	R buttock	5x5 cm	mild	Positive	Negative	History of recurrent abscesses, No sytemic symptoms, no WBC elevation, No IV abx in ED, home on clinda
+MSSA 030		M	19	R elbow	7x7cm	mild	Positive	Negative	No sytemic symptoms, no WBC elevation, No IV abx in ED, home on TMP/SMX
+MRSA 034		F	33	R abdominal wall	7x7cm	mild	Positive	Positive	No systemic symptoms, no WBC obtained, home on keflex
+MRSA 035		F	61	R face/scalp	2cm x 1 cm	mild	Positive	Positive	Hx recurrent MRSA abscesses, 2 lesions, no IV abx, no WBC, no systemic symptoms, home on TMP/SMX
+MRSA 036		F	43	L groin	2 cm x 2 cm	mild	Positive	Positive	No systemic symptoms, no WBC obtained, hx recurrent MRSA abscesses, no abx on discharge, no IV abx in ED
+MSSA 038		M	34	R forearm	Not recorded 	mild	Positive	Negative	No systemic symptoms, no WBC obtained, hx recurrent MRSA abscesses, home on keflex and TMP/SMX, no IV abx in ED
+MRSA 040		F	20	Left lower extremity	2cm x 1 cm	mild	Positive	Positive	No systemic symptoms, no WBC obtained, IV clinda in ED and discharged on oral clinda
+MSSA 042		M	44	Neck	2cm x 2 cm (largest lesion)	severe	Positive	Negative	Admitted on oxacillin/vanco, WBC wnl, elevated lactate, Multiple lesions, Hx recurrent abscesses/MRSA, IDDM, generalized symptoms but no fever, 
+MRSA 044		M	52	Foot	1cm x 1 cm	mild	Positive	Positive	IDDM, admitted for IV vanco given concern for underlying osteomyelitis, hx recurrent abscesses, no systemic symptoms
+MSSA 045		F	37	Upper back	3cm x 3 cm	mild	Positive	Negative	Infected sebatous cyst, no systemic symptoms, no IV or discharge abx
+MRSA 046		M	36	L axilla	3cm x 1 cm	mild	Positive	Positive	No systemic symptoms, no IV abx, home on TMP/SMX, hx recurrent abscesses 
+MRSA 047							Positive	Positive	Double check ID 
+MSSA 048		M	31	Lower back (right)	14x 7cm	severe	Positive	Negative	Admitted for IV vanco, no systemic symptoms, CBC/lactate wnl, failing PO abx, hx of recurrent abscesses
+MSSA 049		M	45	L groin	4 x 4 cm	mild	Positive	Negative	No systemic symptoms, normal WBC, failing oral abx, home on TMP/SMX
+MRSA 051		M	21	R buttock	5 x 5 cm	mild	Positive	Positive	No systemic symptoms, no WBC obtained, no discharge antibiotics
+MRSA 054		F	25	L axilla	1 x 1cm (satellite lesions present)		Positive	Positive	Recurrent MRSA abscesses, failing clinda, discharged on doxy, no WBC obtained, no systemic symptoms
