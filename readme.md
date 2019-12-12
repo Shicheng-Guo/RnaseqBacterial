@@ -11,7 +11,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 
 * Gene-level quantifications: read counts and TPM values will be generated [withRNA-SeQC v1.1.9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356847/) and [HTSeq - FPKM](https://docs.gdc.cancer.gov/Encyclopedia/pages/HTSeq-FPKM/)
 * 12/12/2019: download GENCODE 26 (https://www.gencodegenes.org/human/release_26.html) for the alignment
-* Jennifer share [some novel information](extdata/102816 cDNA Sample list-Sanjay-2019.xlsx), we have 54 samples and then 40 cDNA and 24 with good fastq.  
+* Jennifer share [some novel information](), 54 samples -> 40 cDNA -> 24 fastqs.  
 * 12/12/2019: I ask Tao to prepare filename and smapleid connection file and protocol for RNA-seq 
 * 12/12/2019: Sanjay sent me the [clinical information n=30](https://github.com/Shicheng-Guo/RnaseqBacterial/blob/master/extdata/Subject%20Info%20Abscess%20Study%20no%20MRN.xlsx) without connection file between filename and sampleid
 * 12/10/2019: [24 sample id](./extdata/S24_id.txt) is extracted and wait for clinical information(`urgent`).
