@@ -1,6 +1,6 @@
 ### RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues
 
-Shicheng Guo, Sanjay Shukla, 2019
+Shicheng Guo, Thao Le, Jennifer L Anderson, Sanjay Shukla, 2019
 
 Sanjay introduced the research background and I proposed 3 analysis strategies and aims (12/09/2019)
 * transcriptome different between wound tissues and normal tissues (skin and immnune cells)
@@ -8,6 +8,8 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
+
+* Jennifer share [some novel information](), we have 54 samples and then 40 cDNA and 24 with good fastq.  
 * Gene-level quantifications: read counts and TPM values will be generated [withRNA-SeQC v1.1.9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356847/) and [HTSeq - FPKM](https://docs.gdc.cancer.gov/Encyclopedia/pages/HTSeq-FPKM/)
 * 12/12/2019: download GENCODE 26 (https://www.gencodegenes.org/human/release_26.html) for the alignment
 * 12/12/2019: I ask Tao to prepare filename and smapleid connection file and protocol for RNA-seq 
