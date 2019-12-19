@@ -7,7 +7,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * bacterial transcript nework and host transcript network correlation
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
-Data analysis flow-chart was as the following:
+Data analysis flow-chart was as the following. It's okay even microbe RNA-seq data is not the same pipeline.
 ![](gene-expression-quantification-pipeline-v2.png)
 
 #### Update:
