@@ -8,7 +8,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
-
+* 12/18/2019: RNA-seq alignment completed and data were saved in ``
 * Gene-level quantifications: read counts and TPM values will be generated [withRNA-SeQC v1.1.9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356847/) and [HTSeq - FPKM](https://docs.gdc.cancer.gov/Encyclopedia/pages/HTSeq-FPKM/)
 * 12/12/2019: download GENCODE 26 (https://www.gencodegenes.org/human/release_26.html) for the alignment
 * confirmed with Sanjay to remove 8 from current analysis since it is not Staph Aureus, but Staph capitus
