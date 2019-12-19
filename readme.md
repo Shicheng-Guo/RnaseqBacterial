@@ -12,6 +12,7 @@ Data analysis flow-chart was as the following. It's okay even microbe RNA-seq da
 
 #### Update:
 * 12/18/2019: RNA-seq alignment completed and data were saved in `~/hpc/project/RnaseqBacterial/extdata/rnaseq`
+* STAR2-pass pipeline was also prepared to do the RNA-seq analysis since majority TCGA data are from STAR2
 * Gene-level quantifications: read counts and TPM values will be generated [withRNA-SeQC v1.1.9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356847/) and [HTSeq - FPKM](https://docs.gdc.cancer.gov/Encyclopedia/pages/HTSeq-FPKM/)
 * 12/12/2019: download GENCODE 26 (https://www.gencodegenes.org/human/release_26.html) for the alignment
 * confirmed with Sanjay to remove 8 from current analysis since it is not Staph Aureus, but Staph capitus
