@@ -7,6 +7,8 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * bacterial transcript nework and host transcript network correlation
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
+![](gene-expression-quantification-pipeline-v2.png)
+
 #### Update:
 * 12/18/2019: RNA-seq alignment completed and data were saved in `~/hpc/project/RnaseqBacterial/extdata/rnaseq`
 * Gene-level quantifications: read counts and TPM values will be generated [withRNA-SeQC v1.1.9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356847/) and [HTSeq - FPKM](https://docs.gdc.cancer.gov/Encyclopedia/pages/HTSeq-FPKM/)
