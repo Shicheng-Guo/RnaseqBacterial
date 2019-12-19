@@ -11,6 +11,7 @@ Data analysis flow-chart was as the following. It's okay even microbe RNA-seq da
 ![](gene-expression-quantification-pipeline-v2.png)
 
 #### Update:
+* 12/18/2019: Deconvolution analysis to RNA-seq data to CD4+, CD8+ and B-cells and other white cells with [deconvSeq](https://github.com/Shicheng-Guo/deconvSeq)
 * 12/18/2019: RNA-seq alignment completed and data were saved in `~/hpc/project/RnaseqBacterial/extdata/rnaseq`
 * STAR2-pass pipeline was also prepared to do the RNA-seq analysis since majority TCGA data are from STAR2
 * Gene-level quantifications: read counts and TPM values will be generated [withRNA-SeQC v1.1.9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3356847/) and [HTSeq - FPKM](https://docs.gdc.cancer.gov/Encyclopedia/pages/HTSeq-FPKM/)
