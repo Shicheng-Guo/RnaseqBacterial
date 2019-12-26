@@ -9,6 +9,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 
 #### Update:
 
+* 12/22/2019: alignment RNA-seq data to  
 * 12/22/2019: [1st-pass STAR](STARmanual.pdf) completed and started [2nd-pass STAR](https://groups.google.com/forum/#!msg/rna-star/4dhcEGFMiK0/XoMh6rB7CwAJ) and received sorted bam files ([about 2-pass](2pass-star.md))
 * 12/18/2019: Deconvolution analysis to RNA-seq data to CD4+, CD8+ and B-cells and other white cells with [deconvSeq](https://github.com/Shicheng-Guo/deconvSeq)
 * 12/18/2019: sam and bam files were saved in `~/hpc/project/RnaseqBacterial/extdata/rnaseq/bam`
