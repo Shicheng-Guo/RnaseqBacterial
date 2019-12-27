@@ -8,6 +8,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
+* 12/26/2019: install succeed however the script cannot run since we don't have perl module `Archive::Tar`
 * 12/25/2019: install local blast in BIRC10 `/home/local/MFLDCLIN/guosa/hpc/tools/ncbi-blast-2.10.0/bin/blastn`
 * 12/24/2019: alignment RNA-seq data with blastn to check what happened? and why the mapping ratio is so low.
 * 12/22/2019: [1st-pass STAR](STARmanual.pdf) completed and started [2nd-pass STAR](https://groups.google.com/forum/#!msg/rna-star/4dhcEGFMiK0/XoMh6rB7CwAJ) and received sorted bam files ([about 2-pass](2pass-star.md))
