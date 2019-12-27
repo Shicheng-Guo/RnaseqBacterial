@@ -7,6 +7,11 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * bacterial transcript nework and host transcript network correlation
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
+root:
+
+~/hpc/project/RnaseqBacterial/extdata/rnaseq
+
+
 #### Update:
 * 12/27/2019: try to extract first 1000 reads and submit blast query from the website port NCBI and check microbe.
 * 12/27/2019: No response from Ryan, try to install by myself. failed, install require administrative root, give up
