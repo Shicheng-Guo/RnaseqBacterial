@@ -8,6 +8,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
+* 12/26/2019: No response from Ryan, try to install by myself. failed, install require administrative root, give up
 * 12/26/2019: installed however the script cannot run since we don't have perl module `Archive::Tar`contact Ryan
 * 12/25/2019: install local blast in BIRC10 `/home/local/MFLDCLIN/guosa/hpc/tools/ncbi-blast-2.10.0/bin/blastn`
 * 12/24/2019: alignment RNA-seq data with blastn to check what happened? and why the mapping ratio is so low.
