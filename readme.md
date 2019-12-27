@@ -8,8 +8,8 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 
 #### Update:
-
-* 12/24/2019: alignment RNA-seq data to  
+* 12/25/2019: install local blast in BIRC10 `/home/local/MFLDCLIN/guosa/hpc/tools/ncbi-blast-2.10.0/bin/blastn`
+* 12/24/2019: alignment RNA-seq data with blastn to check what happened? and why the mapping ratio is so low.
 * 12/22/2019: [1st-pass STAR](STARmanual.pdf) completed and started [2nd-pass STAR](https://groups.google.com/forum/#!msg/rna-star/4dhcEGFMiK0/XoMh6rB7CwAJ) and received sorted bam files ([about 2-pass](2pass-star.md))
 * 12/18/2019: Deconvolution analysis to RNA-seq data to CD4+, CD8+ and B-cells and other white cells with [deconvSeq](https://github.com/Shicheng-Guo/deconvSeq)
 * 12/18/2019: sam and bam files were saved in `~/hpc/project/RnaseqBacterial/extdata/rnaseq/bam`
