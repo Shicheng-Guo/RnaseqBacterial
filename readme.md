@@ -13,7 +13,7 @@ root:
 
 
 #### Update:
-* 12/28/2019:I find [90% reads](https://github.com/Shicheng-Guo/RnaseqBacterial/blob/master/extdata/mapping.md) are not located in human or Staphylococcus. I want to know where these reads come from?
+* 12/28:I find [90% reads](https://github.com/Shicheng-Guo/RnaseqBacterial/blob/master/extdata/mapping.md) are not located in human or Staphylococcus. I want to know where these reads come from?
 * [Staphylococcus aureus](https://www.ncbi.nlm.nih.gov/genome/154), 10908 genomes, the genus Staphylococcus are pathogens of humans and other mammals
 * 12/27/2019: EBV port to receive EBV alignment: https://ebv.wistar.upenn.edu/tools.html
 * 12/27/2019: try to extract first 1000 reads and submit blast query from the website port NCBI and check microbe.
