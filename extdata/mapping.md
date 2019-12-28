@@ -10,7 +10,7 @@ Shicheng
 
 
 ## Staphylococcus aureus (NC_007795)  
-
+```
 16_S3_L001.e568851:0.11% overall alignment rate
 17_S4_L001.e568852:0.02% overall alignment rate
 18_S1_L001.e568853:0.80% overall alignment rate
@@ -35,9 +35,9 @@ Shicheng
 54_S4_L001.e568872:0.02% overall alignment rate
 5_S1_L001.e568873:0.31% overall alignment rate
 8_S2_L001.e568874:0.01% overall alignment rate
-
+```
 ## human 
-
+```
 16_S3_L001Log.final.out:Uniquely mapped reads % |4.76%
 17_S4_L001Log.final.out:Uniquely mapped reads % |0.79%
 18_S1_L001Log.final.out:Uniquely mapped reads % |2.44%
@@ -62,3 +62,4 @@ Shicheng
 54_S4_L001Log.final.out:Uniquely mapped reads % |5.68%
 5_S1_L001Log.final.out:Uniquely mapped reads % |0.23%
 8_S2_L001Log.final.out:Uniquely mapped reads % |0.14%
+```
