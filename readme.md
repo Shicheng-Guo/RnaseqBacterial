@@ -13,7 +13,7 @@ root:
 
 
 #### Update:
-* [Staphylococcus aureus](https://www.ncbi.nlm.nih.gov/genome/154), 10908 genomes, Staphylococcus are pathogens of humans and other mammals
+* [Staphylococcus aureus](https://www.ncbi.nlm.nih.gov/genome/154), 10908 genomes, the genus Staphylococcus are pathogens of humans and other mammals
 * 12/27/2019: EBV port to receive EBV alignment: https://ebv.wistar.upenn.edu/tools.html
 * 12/27/2019: try to extract first 1000 reads and submit blast query from the website port NCBI and check microbe.
 * 12/27/2019: No response from Ryan, try to install by myself. failed, install require administrative root, give up
