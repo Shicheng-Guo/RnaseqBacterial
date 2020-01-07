@@ -13,6 +13,7 @@ root:
 
 
 #### Update:
+* 01/06/2020, Sanjay mentioned the genomic annoation to USA300 is not well prepared. Maybe I need to updated the annotation by recent publication. 
 * 01/06/2020, US300 http://bacteria.ensembl.org/Staphylococcus_aureus_subsp_aureus_usa300_fpr3757/Info/Index
 * 01/06/2020: Sanjay said [US300](http://bacteria.ensembl.org/Staphylococcus_aureus_subsp_aureus_usa300_fpr3757/Info/Index) should be correct reference genome rather than my previous used version
 * 12/28:I find [90% reads](https://github.com/Shicheng-Guo/RnaseqBacterial/blob/master/extdata/mapping.md) are not located in human or Staphylococcus. I want to know where these reads come from?
