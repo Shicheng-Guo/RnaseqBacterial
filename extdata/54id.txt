@@ -1,0 +1,55 @@
+	Samples	ID	Date cultured	NGS batch	total reads	size bp (range), AVG	Staph Aureus confirmed by latex test	Confirmed by MALDI Biotyper	cDNA made	mecA PCR	Comment
+23	MRSA 023*	1624139	2/11/2014	2	4464539	(150-500), 193	Positive		Y	Positive	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+24	MRSA 024*	1697756	5/5/2014	2	5717927	(150-500), 263	Positive		Y	Positive	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+28	MRSA 028*	1634672	5/20/2014	2	4819870	(150-500), 256	Positive		Y	Negative	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+45	MRSA 045*	2551546	8/28/2014	2	5195512	(150-500), 219	Positive		Y	Negative	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+34	MRSA 034*	2694194	6/10/2014	3	5901019	(100-350), 167	Positive		Y	Positive	cDNA cleaned up by Jennifer
+40	MRSA 040*	2852637	8/13/2014	3	4169364	(100-300), 154	Positive		Y	Positive	cDNA cleaned up by Jennifer
+44	MRSA 044*	855185	8/28/2014	3	4969392	(100-400), 162	Positive		Y	Positive	cDNA cleaned up by Jennifer
+46	MRSA 046*	1483888	9/8/2014	3	5198465	(100-300), 160	Positive		Y	Positive	cDNA cleaned up by Jennifer
+27	MRSA 027*	2611375	5/14/2014	4_run1	5166194	(150-325), 187	Positive		Y	Positive	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+30	MRSA 030*	1765048	6/3/2014	4_run1	3867530	(100-300), 174	Positive		Y	Negative	1 swab + 1 tube pus, cDNA cleaned up by Jennifer
+35	MRSA 035*	1571172	6/12/2014	4_run1	5772598	(100-300), 178	Positive		Y	Positive	cDNA cleaned up by Jennifer
+51	MRSA 051*	1769406	10/8/2014	4_run1	6916964	(100-300), 178	Positive		Y	Positive	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+36	MRSA 036*	1121265	7/21/2014	4_run2	4772507	(125-325), 174	Positive		Y	Positive	no swab collected, only bloody pus, cDNA cleaned up by Jennifer
+38	MRSA 038*	1714413	7/15/2014	4_run2	5199277	(100-300), 169	Positive		Y	Negative	1 swab without medium, cDNA cleaned up by Jennifer
+42	MRSA 042*	1422630	8/13/2014	4_run2	5386289	(125-400), 175	Positive		Y	Negative	cDNA cleaned up by Jennifer
+47	MRSA 047*	2681717	9/25/2014	4_run2	7552309	(100-350), 173	Positive		Y	Positive	cDNA cleaned up by Jennifer
+5	MRSA 005		5/24/2012	5_run1	4983899		Positive		Y	Positive	Run on light cycler
+8	MRSA 008		6/25/2012	5_run1	4881901		Negative, Staph latex test failed	Staph capitis	Y		
+16	MRSA 016		12/11/2012	5_run1	5593232		Positive		Y	Positive	Run on light cycler
+17	MRSA 017		2/5/2013	5_run1	6218463		Positive		Y	Positive	Run on light cycler
+18	MRSA 018*		4/4/2013	5_run2	5627528		Positive		Y	Positive	cDNA cleaned up by Jennifer
+19	MRSA 019*		6/19/2013	5_run2	6891438		Positive		Y	Positive	cDNA cleaned up by Jennifer
+21	MRSA 021*	2790097	11/12/2013	5_run2	5005377		Positive		Y	Positive	cDNA cleaned up by Jennifer
+54	MRSA 054*	1945367	10/16/2014	5_run2	6119380		Positive		Y	Positive	1 swab without medium, cDNA cleaned up by Jennifer
+1	MRSA 001		4/25/2012				Negative, culture didn't grow	culture didn’t grow	Y		Run on light cycler
+2	MRSA 002		4/25/2012				Positive		Y	Negative	Run on light cycler
+3	MRSA 003		4/25/2012				Positive		Y	Positive	Run on light cycler
+4	MRSA 004		4/25/2012				Negative, culture didn't grow	culture didn’t grow	Y		Run on light cycler
+6	MRSA 006		6/4/2012				Negative, Coagulase test failed	Staph lugdunensis	Y		
+7	MRSA 007		6/11/2012				Positive		Y	Positive	Run on light cycler
+9	MRSA 009		7/25/2012				Negative, Staph latex test failed	Staph epidermidis	Y		
+10	MRSA 010		8/7/2012				Negative, Staph latex test failed	culture didn’t grow	Y		
+11	MRSA 011		8/16/2012				Negative, Staph latex test failed	Staph capitis	Y		
+12	MRSA 012*		8/20/2012				Positive		Y	Negative	cDNA cleaned up by Jennifer, used up cDNA 4-8-15
+13	MRSA 013		8/22/2012				Negative, Staph latex test failed	Staph caprae	Y		
+14	MRSA 014		8/27/2012				Negative, took long time to see small clumping	Citrobacter braakii	Y		
+15	MRSA 015		12/5/2012				Negative, Staph latex test failed	Staph epidermidis	Y		
+20	MRSA 020	2798423	11/14/2013				Negative, Staph latex test failed	Staph hominis	Y		
+22	MRSA 022	2757247	1/22/2014				Negative, Staph latex test failed		Y		
+25	MRSA 025	1876468	5/7/2014				Negative, Staph latex test failed		Y		no swab collected, only bloody pus
+26	MRSA 026*	2832854	5/5/2014				Positive		Y	Negative	cDNA cleaned up by Jennifer, used up cDNA 4-8-15
+29	MRSA 029	2802178	5/20/2014				Negative, Staph latex test failed		Y		
+31	MRSA 031	2521113	6/3/2014				Negative, culture didn't grow		N		
+32	MRSA 032	2816492	6/3/2014				Negative, Staph latex test failed		N		
+33	MRSA 033	2437821	6/3/2014				Negative, culture didn't grow		N		1 swab without medium
+37	MRSA 037	1444068	7/15/2014				Negative, Staph latex test failed		N		no swab collected, only bloody pus
+39	MRSA 039	1792534	7/15/2014				Negative, Staph latex test failed		N		1 swab without medium
+41	MRSA 041	2768754	7/15/2014				Negative, Staph latex test failed		N		no swab collected, only bloody pus
+43	MRSA 043	2426834	8/20/2014				Negative, Staph latex test failed		N		no swab collected, only bloody pus
+48	MRSA 048	2630918	9/25/2014				Positive		N	Negative	no swab collected, only bloody pus
+49	MRSA 049	1818187	10/8/2014				Positive		N	Negative	
+50	MRSA 050	2813271	10/8/2014				Negative, Staph latex test failed		N		
+52	MRSA 052	1882110									Not processed
+53	MRSA 053	2866037	10/16/2014				Negative, Staph latex test failed		N		
