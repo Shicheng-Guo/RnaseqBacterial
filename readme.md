@@ -12,7 +12,7 @@ root:
 ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
-#### Update:
+#### Timeline:
 * 01/07/2020, Sanjay mentioned the genomic annoation to USA300 is not well prepared. Maybe I need to updated it. 
 * 01/06/2020, US300 http://bacteria.ensembl.org/Staphylococcus_aureus_subsp_aureus_usa300_fpr3757/Info/Index
 * 01/06/2020: Sanjay said [US300](http://bacteria.ensembl.org/Staphylococcus_aureus_subsp_aureus_usa300_fpr3757/Info/Index) should be correct reference genome rather than my previous used version
