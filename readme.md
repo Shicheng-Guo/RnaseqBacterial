@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-
+* 01/11/2020, Just find CLARK have a new version and updated to CLARKSCV1.2.6.1, in MCRI CHG1 server
 * 01/10/2020, USA300 protein annotation were collected and the most recent one is from [Uniprot:2,607 protein](extdata/uniprot-proteome_UP000001939.gff)
 * 01/09/2020, Let's check what's the difference between `USA300(CP000255.1)`, `MW2(BA000033.2)` and `CP019590.1`
 * 01/07/2020, Sanjay mentioned the genomic annoation to USA300 is not well prepared. Maybe I need to updated it. 
