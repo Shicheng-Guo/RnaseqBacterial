@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-* 01/10/2020, USA300 protein annotation were collected and the most recent one is from [Uniprot,2,607 protein](extdata/
+* 01/10/2020, USA300 protein annotation were collected and the most recent one is from [Uniprot 2607 protein](extdata/
 uniprot-proteome_UP000001939.gff)
 * 01/07/2020, Sanjay mentioned the genomic annoation to USA300 is not well prepared. Maybe I need to updated it. 
 * 01/06/2020, US300 http://bacteria.ensembl.org/Staphylococcus_aureus_subsp_aureus_usa300_fpr3757/Info/Index
