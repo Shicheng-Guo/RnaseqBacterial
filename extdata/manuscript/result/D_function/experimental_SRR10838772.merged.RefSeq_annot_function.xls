@@ -1,0 +1,1205 @@
+RelativeActivity	counts	ProteinFunction
+53.01480191554201	4871	hypothetical protein
+24.651719634305618	2265	MULTISPECIES: hypothetical protein
+1.4040052242054855	129	hypothetical protein, partial
+0.239442751414889	22	DNA polymerase I
+0.2067914671310405	19	MFS transporter
+0.2067914671310405	19	tetracycline repressor protein TetR, partial
+0.195907705703091	18	ABC transporter ATP-binding protein
+0.1632564214192425	15	transcriptional regulator
+0.14148889856334348	13	endonuclease
+0.13060513713539398	12	endonuclease, partial
+0.1197213757074445	11	DNA-binding response regulator
+0.108837614279495	10	AraC family transcriptional regulator
+0.0979538528515455	9	LysR family transcriptional regulator
+0.0979538528515455	9	MULTISPECIES: LysR family transcriptional regulator
+0.087070091423596	8	ABC transporter permease
+0.087070091423596	8	TetR family transcriptional regulator, partial
+0.087070091423596	8	50S ribosomal protein L4
+0.087070091423596	8	ribonucleoside-triphosphate reductase, adenosylcobalamin-dependent
+0.07618632999564649	7	lipopolysaccharide 1,2-N-acetylglucosaminetransferase
+0.07618632999564649	7	transcriptional regulator, TetR family, partial
+0.07618632999564649	7	MULTISPECIES: membrane protein
+0.07618632999564649	7	actin, cytoplasmic 2
+0.06530256856769699	6	transcription termination factor Rho
+0.06530256856769699	6	TonB-dependent receptor
+0.06530256856769699	6	penicillin-binding protein 2
+0.06530256856769699	6	ribonucleotide-diphosphate reductase subunit alpha
+0.06530256856769699	6	membrane protein
+0.06530256856769699	6	non-ribosomal peptide synthetase
+0.06530256856769699	6	GNAT family N-acetyltransferase
+0.0544188071397475	5	elongation factor G
+0.0544188071397475	5	sensor histidine kinase
+0.0544188071397475	5	glycerol-3-phosphate dehydrogenase
+0.0544188071397475	5	ABC transporter substrate-binding protein
+0.0544188071397475	5	CusA/CzcA family heavy metal efflux RND transporter
+0.0544188071397475	5	formate C-acetyltransferase
+0.0544188071397475	5	lipopolysaccharide 1,3-galactosyltransferase
+0.0544188071397475	5	aminoglycoside phosphotransferase APH(3'), partial
+0.0544188071397475	5	porin
+0.0544188071397475	5	nitronate monooxygenase
+0.0544188071397475	5	ribonucleotide-diphosphate reductase subunit alpha, partial
+0.0544188071397475	5	acyl-CoA dehydrogenase
+0.0544188071397475	5	two-component sensor histidine kinase
+0.0544188071397475	5	isoleucine--tRNA ligase
+0.0544188071397475	5	DUF1725 domain-containing protein
+0.0544188071397475	5	peroxiredoxin
+0.0544188071397475	5	MULTISPECIES: MFS transporter
+0.043535045711798	4	MULTISPECIES: AraC family transcriptional regulator
+0.043535045711798	4	Zn-dependent oxidoreductase
+0.043535045711798	4	zinc metalloprotease
+0.043535045711798	4	amino acid permease
+0.043535045711798	4	acyl-CoA synthetase
+0.043535045711798	4	ATP-dependent helicase
+0.043535045711798	4	anaerobic sulfatase maturase
+0.043535045711798	4	30S ribosomal protein S5
+0.043535045711798	4	threonine--tRNA ligase
+0.043535045711798	4	protein translocase subunit SecD
+0.043535045711798	4	GTPase ObgE
+0.043535045711798	4	TEM family class A beta-lactamase, partial
+0.043535045711798	4	malate:quinone oxidoreductase
+0.043535045711798	4	MULTISPECIES: ABC transporter permease
+0.043535045711798	4	ATP-binding protein
+0.043535045711798	4	fimbrial protein
+0.043535045711798	4	NADH dehydrogenase
+0.043535045711798	4	carbamate kinase
+0.043535045711798	4	preprotein translocase subunit SecY
+0.043535045711798	4	type I glyceraldehyde-3-phosphate dehydrogenase
+0.043535045711798	4	homoserine dehydrogenase
+0.043535045711798	4	urocanate hydratase
+0.043535045711798	4	anion permease
+0.043535045711798	4	lytic transglycosylase
+0.043535045711798	4	glycerol acyltransferase
+0.043535045711798	4	aminoglycoside 3'-phosphotransferase
+0.043535045711798	4	transcriptional regulator LeuO
+0.032651284283848496	3	glycerol phosphate lipoteichoic acid synthase
+0.032651284283848496	3	50S ribosomal protein L11 methyltransferase
+0.032651284283848496	3	helicase
+0.032651284283848496	3	Hcp1 family type VI secretion system effector, partial
+0.032651284283848496	3	iron ABC transporter substrate-binding protein
+0.032651284283848496	3	branched-chain amino acid transport system II carrier protein
+0.032651284283848496	3	TEM family class A beta-lactamase
+0.032651284283848496	3	cobyrinic acid a,c-diamide synthase
+0.032651284283848496	3	DNA gyrase subunit A
+0.032651284283848496	3	transporter
+0.032651284283848496	3	2-oxoglutarate dehydrogenase subunit E1
+0.032651284283848496	3	host specificity protein J
+0.032651284283848496	3	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+0.032651284283848496	3	LPS biosynthesis protein
+0.032651284283848496	3	MULTISPECIES: ABC transporter ATP-binding protein
+0.032651284283848496	3	diguanylate cyclase
+0.032651284283848496	3	rhomboid family intramembrane serine protease
+0.032651284283848496	3	CoA transferase
+0.032651284283848496	3	hydroxyacylglutathione hydrolase
+0.032651284283848496	3	alkaline phosphatase
+0.032651284283848496	3	NAD(P)/FAD-dependent oxidoreductase
+0.032651284283848496	3	MULTISPECIES: chromosomal replication initiation protein DnaA
+0.032651284283848496	3	LuxR family transcriptional regulator
+0.032651284283848496	3	O-antigen polymerase
+0.032651284283848496	3	fimbrial biogenesis outer membrane usher protein
+0.032651284283848496	3	pyruvate formate-lyase-activating enzyme
+0.032651284283848496	3	ATP-dependent chaperone ClpB
+0.032651284283848496	3	urease subunit alpha
+0.032651284283848496	3	glucokinase
+0.032651284283848496	3	amino acid permease, partial
+0.032651284283848496	3	peptidase S41
+0.032651284283848496	3	penicillin-binding protein 2, partial
+0.032651284283848496	3	carbamoyl phosphate synthase large subunit
+0.032651284283848496	3	DUF4049 domain-containing protein
+0.032651284283848496	3	CPBP family intramembrane metalloprotease
+0.032651284283848496	3	serine/threonine protein kinase
+0.032651284283848496	3	MULTISPECIES: sulfoxide reductase heme-binding subunit YedZ
+0.032651284283848496	3	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing), partial
+0.032651284283848496	3	TetR family transcriptional regulator
+0.032651284283848496	3	TetR/AcrR family transcriptional regulator
+0.032651284283848496	3	DUF1398 domain-containing protein
+0.032651284283848496	3	elongation factor 4
+0.032651284283848496	3	metalloprotease TldD
+0.032651284283848496	3	hydrogenase 2 large subunit
+0.032651284283848496	3	tripartite tricarboxylate transporter substrate binding protein
+0.032651284283848496	3	isomerase
+0.032651284283848496	3	DNA-directed RNA polymerase subunit beta'
+0.032651284283848496	3	alpha-ketoacid dehydrogenase subunit beta
+0.032651284283848496	3	excinuclease ABC subunit B
+0.032651284283848496	3	alpha/beta hydrolase
+0.032651284283848496	3	ATP-dependent Clp protease ATP-binding subunit ClpA
+0.032651284283848496	3	aminotransferase
+0.032651284283848496	3	siderophore-interacting protein
+0.032651284283848496	3	sulfur oxidation c-type cytochrome SoxA
+0.032651284283848496	3	translation initiation factor IF-2
+0.032651284283848496	3	O-antigen ligase
+0.032651284283848496	3	phosphoglycerate kinase
+0.032651284283848496	3	penicillin-binding protein
+0.032651284283848496	3	alanine dehydrogenase
+0.032651284283848496	3	30S ribosomal protein S12
+0.032651284283848496	3	succinate--CoA ligase subunit beta
+0.032651284283848496	3	recombinase
+0.032651284283848496	3	DUF1080 domain-containing protein
+0.021767522855899	2	urease accessory protein UreE
+0.021767522855899	2	MULTISPECIES: 30S ribosomal protein S12
+0.021767522855899	2	valine--tRNA ligase
+0.021767522855899	2	YihY/virulence factor BrkB family protein
+0.021767522855899	2	carbohydrate kinase
+0.021767522855899	2	pyruvate kinase
+0.021767522855899	2	amidohydrolase
+0.021767522855899	2	formate acetyltransferase
+0.021767522855899	2	MULTISPECIES: MarR family transcriptional regulator
+0.021767522855899	2	DUF885 domain-containing protein
+0.021767522855899	2	serine protease
+0.021767522855899	2	APH(3') family aminoglycoside O-phosphotransferase, partial
+0.021767522855899	2	NAD(P)(+) transhydrogenase (Re/Si-specific) subunit alpha
+0.021767522855899	2	glycosyl transferase
+0.021767522855899	2	clumping factor B, partial
+0.021767522855899	2	trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase
+0.021767522855899	2	peptidase
+0.021767522855899	2	MULTISPECIES: glucarate dehydratase
+0.021767522855899	2	8-oxo-dGTP diphosphatase MutT
+0.021767522855899	2	phosphoadenosine phosphosulfate reductase
+0.021767522855899	2	serine-rich repeat glycoprotein adhesin SasA
+0.021767522855899	2	glutathione S-transferase
+0.021767522855899	2	beta-1,6-galactofuranosyltransferase
+0.021767522855899	2	bactoprenol glucosyl transferase
+0.021767522855899	2	HlyC/CorC family transporter
+0.021767522855899	2	DUF4433 domain-containing protein
+0.021767522855899	2	integrase
+0.021767522855899	2	adenosylmethionine--8-amino-7-oxononanoate transaminase
+0.021767522855899	2	metal-binding protein ZinT
+0.021767522855899	2	recombination regulator RecX
+0.021767522855899	2	oligoribonuclease
+0.021767522855899	2	RNA polymerase subunit sigma-70
+0.021767522855899	2	alpha-mannosidase
+0.021767522855899	2	sugar-phosphatase
+0.021767522855899	2	MULTISPECIES: xanthine dehydrogenase
+0.021767522855899	2	GntR family transcriptional regulator
+0.021767522855899	2	phage tail protein
+0.021767522855899	2	nitrite reductase
+0.021767522855899	2	UDP-N-acetylenolpyruvoylglucosamine reductase
+0.021767522855899	2	mechanosensitive ion channel family protein
+0.021767522855899	2	ATP synthase subunit alpha
+0.021767522855899	2	class I SAM-dependent methyltransferase
+0.021767522855899	2	polyphosphate kinase 2
+0.021767522855899	2	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+0.021767522855899	2	lipase
+0.021767522855899	2	MULTISPECIES: CusA/CzcA family heavy metal efflux RND transporter
+0.021767522855899	2	signal recognition particle-docking protein FtsY
+0.021767522855899	2	1-(5-phosphoribosyl)-5
+0.021767522855899	2	IS3 family transposase
+0.021767522855899	2	glutamyl-tRNA amidotransferase, partial
+0.021767522855899	2	sulfate ABC transporter substrate-binding protein
+0.021767522855899	2	XRE family transcriptional regulator
+0.021767522855899	2	pseudouridine synthase
+0.021767522855899	2	MULTISPECIES: methylmalonate-semialdehyde dehydrogenase (CoA acylating)
+0.021767522855899	2	MULTISPECIES: aldo/keto reductase
+0.021767522855899	2	ATP-dependent Clp protease proteolytic subunit
+0.021767522855899	2	MULTISPECIES: 3-oxoadipate enol-lactonase
+0.021767522855899	2	DUF2303 domain-containing protein
+0.021767522855899	2	aminoacyltransferase
+0.021767522855899	2	lyase
+0.021767522855899	2	MULTISPECIES: 2-methylcitrate dehydratase
+0.021767522855899	2	MerR family transcriptional regulator
+0.021767522855899	2	MULTISPECIES: aminopeptidase N
+0.021767522855899	2	rhamnulokinase
+0.021767522855899	2	branched-chain alpha-keto acid dehydrogenase subunit E2
+0.021767522855899	2	MULTISPECIES: phosphate transport system regulatory protein PhoU
+0.021767522855899	2	methionyl-tRNA formyltransferase
+0.021767522855899	2	carbohydrate porin
+0.021767522855899	2	polyribonucleotide nucleotidyltransferase
+0.021767522855899	2	LexA family transcriptional regulator
+0.021767522855899	2	MULTISPECIES: type II/IV secretion system protein
+0.021767522855899	2	DUF2232 domain-containing protein
+0.021767522855899	2	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase, partial
+0.021767522855899	2	RepB family plasmid replication initiator protein
+0.021767522855899	2	chromate transporter
+0.021767522855899	2	glucosyl transferase
+0.021767522855899	2	lac repressor
+0.021767522855899	2	ornithine--oxo-acid transaminase
+0.021767522855899	2	MULTISPECIES: nucleotidyltransferase domain-containing protein
+0.021767522855899	2	thioredoxin
+0.021767522855899	2	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A
+0.021767522855899	2	leucine--tRNA ligase
+0.021767522855899	2	class I poly(R)-hydroxyalkanoic acid synthase
+0.021767522855899	2	thioesterase
+0.021767522855899	2	50S ribosomal protein L3
+0.021767522855899	2	glycosyl transferase family 1
+0.021767522855899	2	nickel ABC transporter, nickel/metallophore periplasmic binding protein
+0.021767522855899	2	excinuclease ABC subunit UvrA
+0.021767522855899	2	MULTISPECIES: TetR family transcriptional regulator, partial
+0.021767522855899	2	acetyl-CoA acetyltransferase
+0.021767522855899	2	aconitate hydratase 1
+0.021767522855899	2	pantetheine-phosphate adenylyltransferase
+0.021767522855899	2	NAD(P)-dependent oxidoreductase
+0.021767522855899	2	thioredoxin-disulfide reductase
+0.021767522855899	2	chloride channel protein EriC
+0.021767522855899	2	type II secretion system protein GspC
+0.021767522855899	2	MULTISPECIES: Fe-S cluster assembly protein SufD
+0.021767522855899	2	ATP-dependent RecD-like DNA helicase
+0.021767522855899	2	glycogen/starch/alpha-glucan family phosphorylase, partial
+0.021767522855899	2	patatin
+0.021767522855899	2	2-isopropylmalate synthase
+0.021767522855899	2	heavy metal translocating P-type ATPase
+0.021767522855899	2	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+0.021767522855899	2	protocatechuate 3,4-dioxygenase subunit alpha
+0.021767522855899	2	ribonuclease HI
+0.021767522855899	2	ornithine carbamoyltransferase
+0.021767522855899	2	
+0.021767522855899	2	MULTISPECIES: acyl-CoA dehydrogenase
+0.021767522855899	2	NAD(P)-dependent glycerol-3-phosphate dehydrogenase
+0.021767522855899	2	pyruvate carboxylase
+0.021767522855899	2	hydroxymethylbilane synthase
+0.021767522855899	2	GGDEF domain-containing protein
+0.021767522855899	2	50S ribosomal protein L5
+0.021767522855899	2	LacI family DNA-binding transcriptional regulator
+0.021767522855899	2	single-stranded DNA-binding protein
+0.021767522855899	2	MULTISPECIES: oxidase
+0.021767522855899	2	MULTISPECIES: biotin synthase BioB
+0.021767522855899	2	AI-2E family transporter
+0.021767522855899	2	alpha-D-glucose phosphate-specific phosphoglucomutase
+0.021767522855899	2	sodium:proton antiporter
+0.021767522855899	2	anaerobic ribonucleoside-triphosphate reductase
+0.021767522855899	2	two-component system sensor histidine kinase EvgS
+0.021767522855899	2	Crp/Fnr family transcriptional regulator
+0.021767522855899	2	alpha-glucosidase
+0.021767522855899	2	glycosyltransferase family 1 protein
+0.021767522855899	2	and surface-associated lipoprotein mucinase
+0.021767522855899	2	pyruvate formate-lyase 1-activating enzyme
+0.021767522855899	2	50S ribosomal protein L25/general stress protein Ctc
+0.021767522855899	2	FAD-binding oxidoreductase
+0.021767522855899	2	catalase
+0.021767522855899	2	ISL3 family transposase
+0.021767522855899	2	MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+0.021767522855899	2	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+0.021767522855899	2	fructose-1,6-bisphosphate aldolase, class II
+0.021767522855899	2	phage minor tail protein G, partial
+0.021767522855899	2	MULTISPECIES: transcriptional regulator
+0.021767522855899	2	MULTISPECIES: IclR family transcriptional regulator
+0.021767522855899	2	MULTISPECIES: alanine racemase
+0.021767522855899	2	cytochrome c oxidase subunit I
+0.021767522855899	2	MULTISPECIES: sensor histidine kinase
+0.021767522855899	2	PIG-L family deacetylase
+0.021767522855899	2	acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+0.021767522855899	2	nitrate reductase subunit alpha
+0.021767522855899	2	MULTISPECIES: succinate--CoA ligase subunit beta
+0.021767522855899	2	MULTISPECIES: arabinose 5-phosphate isomerase KdsD
+0.021767522855899	2	formyltetrahydrofolate deformylase
+0.021767522855899	2	MULTISPECIES: urocanate hydratase
+0.021767522855899	2	phosphatase PAP2 family protein
+0.021767522855899	2	cytochrome aa3 quinol oxidase subunit I
+0.021767522855899	2	arginine--tRNA ligase
+0.021767522855899	2	DNA polymerase IV protein
+0.021767522855899	2	superoxide dismutase
+0.021767522855899	2	methylmalonyl-CoA mutase
+0.021767522855899	2	MULTISPECIES: carbohydrate kinase family protein
+0.021767522855899	2	cytidine deaminase
+0.021767522855899	2	formate dehydrogenase subunit alpha
+0.021767522855899	2	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+0.021767522855899	2	MULTISPECIES: nitrate reductase
+0.021767522855899	2	efflux RND transporter periplasmic adaptor subunit
+0.021767522855899	2	alkyl hydroperoxide reductase subunit F
+0.021767522855899	2	molecular chaperone HtpG
+0.021767522855899	2	type I restriction endonuclease EcoKI subunit S
+0.021767522855899	2	penicillin-binding protein 1A
+0.021767522855899	2	adenylosuccinate synthase
+0.021767522855899	2	aldehyde dehydrogenase
+0.021767522855899	2	redox-regulated ATPase YchF
+0.021767522855899	2	transposase
+0.021767522855899	2	IS5/IS1182 family transposase
+0.021767522855899	2	glycine dehydrogenase
+0.021767522855899	2	ribonuclease Y
+0.021767522855899	2	beta-galactosidase
+0.021767522855899	2	cell division protein FtsH
+0.021767522855899	2	RHS repeat protein
+0.021767522855899	2	LacI family transcriptional regulator
+0.021767522855899	2	beta-N-acetylhexosaminidase
+0.021767522855899	2	phosphoethanolamine transferase
+0.021767522855899	2	acid-resistance protein, partial
+0.021767522855899	2	MULTISPECIES: repressor LexA
+0.021767522855899	2	dTDP-glucose 4,6-dehydratase
+0.021767522855899	2	PTS fructose transporter subunit IIB
+0.021767522855899	2	chromosome segregation protein SMC
+0.021767522855899	2	CDP-glycerol glycerophosphotransferase family protein
+0.021767522855899	2	sigma-54-dependent Fis family transcriptional regulator
+0.021767522855899	2	MULTISPECIES: poly-beta-hydroxybutyrate polymerase
+0.021767522855899	2	preprotein translocase subunit SecA
+0.021767522855899	2	CtsR family transcriptional regulator
+0.021767522855899	2	nucleoside permease
+0.021767522855899	2	DUF2713 domain-containing protein
+0.021767522855899	2	deubiquitinase
+0.021767522855899	2	arginine-ornithine antiporter
+0.021767522855899	2	F0F1 ATP synthase subunit gamma
+0.021767522855899	2	dihydrolipoyl dehydrogenase, partial
+0.021767522855899	2	creatininase
+0.021767522855899	2	EamA family transporter
+0.021767522855899	2	transcription-repair coupling factor
+0.021767522855899	2	DUF2135 domain-containing protein
+0.021767522855899	2	CTP synthase (glutamine hydrolyzing)
+0.021767522855899	2	30S ribosomal protein S1
+0.021767522855899	2	DNA polymerase III subunit gamma/tau
+0.021767522855899	2	MULTISPECIES: ATP-dependent Clp protease ATP-binding subunit ClpX
+0.021767522855899	2	peptidase M23
+0.021767522855899	2	glutamate--tRNA ligase
+0.021767522855899	2	dihydrolipoyllysine-residue succinyltransferase
+0.021767522855899	2	tRNA (guanine(37)-N(1))-methyltransferase
+0.021767522855899	2	acetate kinase
+0.021767522855899	2	MULTISPECIES: UMP kinase
+0.021767522855899	2	MULTISPECIES: branched-chain amino acid ABC transporter permease
+0.021767522855899	2	octopine dehydrogenase
+0.021767522855899	2	ribonuclease
+0.021767522855899	2	sialidase
+0.021767522855899	2	MULTISPECIES: hydrogenase 4 subunit B
+0.021767522855899	2	3-deoxy-D-manno-oct-2-ulosonate III transferase WaaZ
+0.021767522855899	2	UTP--glucose-1-phosphate uridylyltransferase
+0.021767522855899	2	50S ribosomal protein L15
+0.0108837614279495	1	MULTISPECIES: cardiolipin synthase B
+0.0108837614279495	1	hemolysin III family protein
+0.0108837614279495	1	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+0.0108837614279495	1	8-amino-7-oxononanoate synthase
+0.0108837614279495	1	thiol:disulfide oxidoreductase
+0.0108837614279495	1	TerC family protein
+0.0108837614279495	1	melibiose:sodium transporter MelB
+0.0108837614279495	1	PTS mannose/fructose/sorbose transporter subunit IIC
+0.0108837614279495	1	amino acid APC transporter, partial
+0.0108837614279495	1	cell division protein
+0.0108837614279495	1	cyclic di-GMP phosphodiesterase, partial
+0.0108837614279495	1	daunorubicin/doxorubicin resistance ABC transporter ATP-binding protein DrrA
+0.0108837614279495	1	30S ribosomal protein S17
+0.0108837614279495	1	DNA repair protein RadA
+0.0108837614279495	1	type IV pilus secretin PilQ
+0.0108837614279495	1	trehalose permease IIC protein
+0.0108837614279495	1	MULTISPECIES: phospholipase
+0.0108837614279495	1	peptide ABC transporter substrate-binding protein
+0.0108837614279495	1	diaminopropionate ammonia-lyase
+0.0108837614279495	1	phosphonoacetaldehyde hydrolase
+0.0108837614279495	1	two-component system response regulator RssB
+0.0108837614279495	1	nickel ABC transporter substrate-binding protein
+0.0108837614279495	1	urea ABC transporter substrate-binding protein
+0.0108837614279495	1	transcriptional antiterminator BglG, partial
+0.0108837614279495	1	MULTISPECIES: glucose-6-phosphate dehydrogenase
+0.0108837614279495	1	adenylate/guanylate cyclase domain-containing protein
+0.0108837614279495	1	DeaD protein, partial
+0.0108837614279495	1	YitT family protein
+0.0108837614279495	1	nitroreductase A
+0.0108837614279495	1	heme lyase CcmF/NrfE family subunit
+0.0108837614279495	1	transcriptional regulator ExuR
+0.0108837614279495	1	iron transporter
+0.0108837614279495	1	50S ribosomal protein L7
+0.0108837614279495	1	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+0.0108837614279495	1	restriction endonuclease EcoKI subunit S
+0.0108837614279495	1	glutathione ABC transporter permease GsiD
+0.0108837614279495	1	translational GTPase TypA
+0.0108837614279495	1	dihydroorotase
+0.0108837614279495	1	bacterioferritin
+0.0108837614279495	1	MULTISPECIES: bifunctional metallophosphatase/5'-nucleotidase
+0.0108837614279495	1	cytochrome P450
+0.0108837614279495	1	AP endonuclease
+0.0108837614279495	1	cytochrome aa3 quinol oxidase subunit II
+0.0108837614279495	1	MULTISPECIES: DNA-binding response regulator
+0.0108837614279495	1	MULTISPECIES: aspartate carbamoyltransferase
+0.0108837614279495	1	7-cyano-7-deazaguanine synthase QueC
+0.0108837614279495	1	GlxA family transcriptional regulator
+0.0108837614279495	1	acetyl-CoA carboxylase biotin carboxylase subunit
+0.0108837614279495	1	DUF1449 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: acetyl-CoA acetyltransferase
+0.0108837614279495	1	50S ribosomal protein L16
+0.0108837614279495	1	guanine deaminase
+0.0108837614279495	1	MULTISPECIES: precorrin-6Y C5,15-methyltransferase (decarboxylating) subunit CbiT
+0.0108837614279495	1	MULTISPECIES: recombination regulator RecX
+0.0108837614279495	1	thiol:disulfide interchange protein DsbA
+0.0108837614279495	1	amino acid transporter
+0.0108837614279495	1	Cu+ exporting ATPase
+0.0108837614279495	1	MULTISPECIES: bifunctional enoyl-CoA hydratase/phosphate acetyltransferase
+0.0108837614279495	1	MULTISPECIES: RNA polymerase factor sigma-32
+0.0108837614279495	1	general stress protein
+0.0108837614279495	1	IclR family transcriptional regulator
+0.0108837614279495	1	UDP-N-acetyl-D-mannosamine dehydrogenase
+0.0108837614279495	1	phosphoglycolate phosphatase
+0.0108837614279495	1	outer membrane lipoprotein carrier protein LolA
+0.0108837614279495	1	nucleotidyltransferase
+0.0108837614279495	1	type I glutamate--ammonia ligase
+0.0108837614279495	1	phosphoenolpyruvate carboxykinase (ATP)
+0.0108837614279495	1	DUF1725 domain-containing protein, partial
+0.0108837614279495	1	MULTISPECIES: ascorbate-specific permease IIC component UlaA
+0.0108837614279495	1	NADH-dependent alcohol dehydrogenase
+0.0108837614279495	1	nucleoside-triphosphate diphosphatase
+0.0108837614279495	1	DnaA regulatory inactivator Hda
+0.0108837614279495	1	MULTISPECIES: amino acid ABC transporter substrate-binding protein
+0.0108837614279495	1	5-oxoprolinase
+0.0108837614279495	1	MULTISPECIES: cobyrinic acid a,c-diamide synthase
+0.0108837614279495	1	pyruvate dehydrogenase (acetyl-transferring), homodimeric type
+0.0108837614279495	1	MULTISPECIES: DNA repair exonuclease
+0.0108837614279495	1	MULTISPECIES: efflux RND transporter periplasmic adaptor subunit
+0.0108837614279495	1	dihydrolipoyl dehydrogenase
+0.0108837614279495	1	accessory Sec system glycosyltransferase GtfA
+0.0108837614279495	1	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent
+0.0108837614279495	1	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+0.0108837614279495	1	5-(carboxyamino)imidazole ribonucleotide synthase
+0.0108837614279495	1	type I restriction endonuclease subunit R
+0.0108837614279495	1	MULTISPECIES: DUF423 domain-containing protein
+0.0108837614279495	1	RNase E specificity factor CsrD
+0.0108837614279495	1	MULTISPECIES: class I SAM-dependent DNA methyltransferase
+0.0108837614279495	1	xanthine dehydrogenase molybdopterin binding subunit
+0.0108837614279495	1	thiosulfohydrolase SoxB
+0.0108837614279495	1	2-aminoethylphosphonate ABC transporter substrate-binding protein
+0.0108837614279495	1	MULTISPECIES: aspartate--tRNA ligase
+0.0108837614279495	1	molecular chaperone DnaJ
+0.0108837614279495	1	MULTISPECIES: lac repressor
+0.0108837614279495	1	cold-shock protein
+0.0108837614279495	1	glutamate dehydrogenase
+0.0108837614279495	1	MULTISPECIES: elongation factor Tu
+0.0108837614279495	1	fluoride ion transporter CrcB
+0.0108837614279495	1	ribonucleoside-diphosphate reductase adenosylcobalamin-dependent
+0.0108837614279495	1	MULTISPECIES: biotin-
+0.0108837614279495	1	channel protein TolC
+0.0108837614279495	1	APH(3')-I family aminoglycoside O-phosphotransferase
+0.0108837614279495	1	ATP-dependent RNA helicase DbpA
+0.0108837614279495	1	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit B
+0.0108837614279495	1	(2E,6E)-farnesyl diphosphate synthase
+0.0108837614279495	1	PTS fructose transporter subunit IIC
+0.0108837614279495	1	cardiolipin synthase
+0.0108837614279495	1	MULTISPECIES: RNA polymerase sigma factor
+0.0108837614279495	1	glycine/betaine ABC transporter substrate-binding protein
+0.0108837614279495	1	cell division protein FtsA
+0.0108837614279495	1	nitrate ABC transporter permease
+0.0108837614279495	1	nicotinate phosphoribosyltransferase
+0.0108837614279495	1	TonB-dependent siderophore receptor
+0.0108837614279495	1	MULTISPECIES: lauroyl acyltransferase
+0.0108837614279495	1	sulfate transporter subunit
+0.0108837614279495	1	galactose-1-epimerase
+0.0108837614279495	1	MULTISPECIES: beta-glucuronidase
+0.0108837614279495	1	transcriptional regulator YeiL, partial
+0.0108837614279495	1	DUF692 domain-containing protein
+0.0108837614279495	1	gluconate 5-dehydrogenase
+0.0108837614279495	1	DUF2958 domain-containing protein
+0.0108837614279495	1	gamma-glutamyltransferase family protein
+0.0108837614279495	1	MULTISPECIES: MipA/OmpV family protein
+0.0108837614279495	1	DNA recombination protein RmuC
+0.0108837614279495	1	YgiQ family radical SAM protein
+0.0108837614279495	1	DNA-processing protein DprA
+0.0108837614279495	1	paraslipin
+0.0108837614279495	1	cell division protein FtsQ
+0.0108837614279495	1	MULTISPECIES: asparagine synthetase B
+0.0108837614279495	1	MULTISPECIES: molecular chaperone DnaK
+0.0108837614279495	1	sugar porter family MFS transporter
+0.0108837614279495	1	MULTISPECIES: ABC transporter substrate-binding protein
+0.0108837614279495	1	MULTISPECIES: F0F1 ATP synthase subunit gamma
+0.0108837614279495	1	HD-GYP domain-containing protein
+0.0108837614279495	1	heme biosynthesis protein HemY
+0.0108837614279495	1	VWA domain-containing protein
+0.0108837614279495	1	50S ribosomal protein L19
+0.0108837614279495	1	potassium transporter
+0.0108837614279495	1	ISAs1 family transposase
+0.0108837614279495	1	HPr kinase/phosphorylase
+0.0108837614279495	1	DeoR family transcriptional regulator, partial
+0.0108837614279495	1	MULTISPECIES: membrane protein insertase YidC
+0.0108837614279495	1	MULTISPECIES: succinyl-CoA--3-ketoacid-CoA transferase
+0.0108837614279495	1	MULTISPECIES: ROK family transcriptional regulator
+0.0108837614279495	1	30S ribosomal protein S12 methylthiotransferase RimO
+0.0108837614279495	1	ribosome biogenesis GTPase YlqF
+0.0108837614279495	1	MULTISPECIES: NADH-quinone oxidoreductase subunit F
+0.0108837614279495	1	DUF3488 domain-containing protein
+0.0108837614279495	1	ribosome-recycling factor
+0.0108837614279495	1	DNA polymerase III subunit delta
+0.0108837614279495	1	glutathionylspermidine synthase family protein
+0.0108837614279495	1	phospholipase C, phosphocholine-specific
+0.0108837614279495	1	PTS-dependent dihydroxyacetone kinase phosphotransferase subunit DhaM
+0.0108837614279495	1	MULTISPECIES: allophanate hydrolase
+0.0108837614279495	1	leucine-rich repeat domain-containing protein
+0.0108837614279495	1	MULTISPECIES: DUF1173 domain-containing protein
+0.0108837614279495	1	Zn-dependent oxidoreductase, partial
+0.0108837614279495	1	RidA family protein
+0.0108837614279495	1	D-glycerate dehydrogenase
+0.0108837614279495	1	threonine ammonia-lyase
+0.0108837614279495	1	phytoene desaturase
+0.0108837614279495	1	RNase adaptor protein RapZ
+0.0108837614279495	1	LPS 1,2-glucosyltransferase
+0.0108837614279495	1	benzoylformate decarboxylase
+0.0108837614279495	1	aminoacetone oxidase family FAD-binding enzyme
+0.0108837614279495	1	O-succinylbenzoic acid--CoA ligase
+0.0108837614279495	1	tetratricopeptide repeat family protein
+0.0108837614279495	1	MULTISPECIES: peptidylprolyl isomerase
+0.0108837614279495	1	lipopolysaccharide biosynthesis protein
+0.0108837614279495	1	elongation factor P
+0.0108837614279495	1	HAD family hydrolase
+0.0108837614279495	1	MULTISPECIES: ATP-dependent helicase
+0.0108837614279495	1	Rho-binding antiterminator
+0.0108837614279495	1	cyclic di-GMP phosphodiesterase
+0.0108837614279495	1	cell division protein FtsB
+0.0108837614279495	1	MULTISPECIES: short-chain fatty acid transporter
+0.0108837614279495	1	tdc operon transcriptional activator domain protein
+0.0108837614279495	1	tonB-dependent Receptor Plug domain protein
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S3
+0.0108837614279495	1	divalent metal cation transporter FieF
+0.0108837614279495	1	MULTISPECIES: EamA/RhaT family transporter
+0.0108837614279495	1	bifunctional protein-disulfide isomerase/oxidoreductase DsbC
+0.0108837614279495	1	MULTISPECIES: bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase
+0.0108837614279495	1	phospho-sugar mutase
+0.0108837614279495	1	phosphate regulon transcriptional regulatory protein PhoB
+0.0108837614279495	1	MULTISPECIES: glycine betaine/L-proline ABC transporter ATP-binding protein
+0.0108837614279495	1	thioesterase family protein
+0.0108837614279495	1	methyltransferase
+0.0108837614279495	1	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+0.0108837614279495	1	MULTISPECIES: K+/H+ antiporter
+0.0108837614279495	1	glycerophosphoryl diester phosphodiesterase
+0.0108837614279495	1	endothelin-converting protein
+0.0108837614279495	1	transcription elongation factor GreAB
+0.0108837614279495	1	DUF1454 domain-containing protein
+0.0108837614279495	1	amidohydrolase, partial
+0.0108837614279495	1	choline dehydrogenase
+0.0108837614279495	1	tryptophan synthase subunit alpha
+0.0108837614279495	1	O-sialoglycoprotein endopeptidase
+0.0108837614279495	1	tryptophanase leader peptide
+0.0108837614279495	1	16S rRNA methyltransferase, partial
+0.0108837614279495	1	MULTISPECIES: FAD-binding molybdopterin dehydrogenase
+0.0108837614279495	1	catalase-peroxidase
+0.0108837614279495	1	2-oxoisovalerate dehydrogenase
+0.0108837614279495	1	prepilin peptidase
+0.0108837614279495	1	cryptochrome/photolyase family protein
+0.0108837614279495	1	sulfatase
+0.0108837614279495	1	exoribonuclease II
+0.0108837614279495	1	pyruvate dehydrogenase E1 component subunit beta
+0.0108837614279495	1	CCA tRNA nucleotidyltransferase
+0.0108837614279495	1	RNA polymerase-binding ATPase
+0.0108837614279495	1	multidrug efflux RND transporter permease subunit
+0.0108837614279495	1	NAD-dependent malic enzyme
+0.0108837614279495	1	D-alanine--D-alanine ligase A
+0.0108837614279495	1	MULTISPECIES: DUF1707 domain-containing protein
+0.0108837614279495	1	DUF1471 domain-containing protein
+0.0108837614279495	1	acyltransferase
+0.0108837614279495	1	ABC transporter ATP-binding protein, partial
+0.0108837614279495	1	methionine adenosyltransferase
+0.0108837614279495	1	WhiB family transcriptional regulator
+0.0108837614279495	1	ATP F0F1 synthase subunit B
+0.0108837614279495	1	peptide MFS transporter
+0.0108837614279495	1	ribonuclease HII
+0.0108837614279495	1	MULTISPECIES: amidohydrolase
+0.0108837614279495	1	glycosyl transferase family 2
+0.0108837614279495	1	MULTISPECIES: DNA mismatch repair protein MutL
+0.0108837614279495	1	redoxin
+0.0108837614279495	1	DUF2520 domain-containing protein
+0.0108837614279495	1	penicillin-binding protein activator
+0.0108837614279495	1	DUF58 domain-containing protein
+0.0108837614279495	1	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+0.0108837614279495	1	MULTISPECIES: alpha-hydroxy-acid oxidizing enzyme
+0.0108837614279495	1	MULTISPECIES: leucyl aminopeptidase
+0.0108837614279495	1	glucuronate isomerase
+0.0108837614279495	1	tyrosine protein phosphatase
+0.0108837614279495	1	MSHA biogenesis protein MshQ
+0.0108837614279495	1	3-dehydroquinate synthase
+0.0108837614279495	1	cytochrome c4
+0.0108837614279495	1	MULTISPECIES: transcriptional repressor
+0.0108837614279495	1	NAD(P)-dependent alcohol dehydrogenase
+0.0108837614279495	1	peptidase S9
+0.0108837614279495	1	clamp-binding protein CrfC
+0.0108837614279495	1	MULTISPECIES: SELO family protein
+0.0108837614279495	1	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+0.0108837614279495	1	MOSC domain-containing protein
+0.0108837614279495	1	site-specific DNA-methyltransferase
+0.0108837614279495	1	NCS2 family permease
+0.0108837614279495	1	phosphatase
+0.0108837614279495	1	DUF2569 domain-containing protein
+0.0108837614279495	1	IMP dehydrogenase
+0.0108837614279495	1	AMP-binding protein
+0.0108837614279495	1	MULTISPECIES: AMP-dependent synthetase
+0.0108837614279495	1	type I-E CRISPR-associated protein Cas6/Cse3/CasE
+0.0108837614279495	1	stress adaptor protein CpxP
+0.0108837614279495	1	GHKL domain-containing protein
+0.0108837614279495	1	long-chain-fatty-acid--CoA ligase
+0.0108837614279495	1	Fe/S-dependent 2-methylisocitrate dehydratase AcnD
+0.0108837614279495	1	molybdenum cofactor biosynthesis protein MoaB
+0.0108837614279495	1	phosphoesterase
+0.0108837614279495	1	formate dehydrogenase-N subunit alpha
+0.0108837614279495	1	septal ring lytic transglycosylase RlpA family protein
+0.0108837614279495	1	polynucleotide phosphorylase
+0.0108837614279495	1	nitrogen fixation protein NifR, partial
+0.0108837614279495	1	fumarate hydratase
+0.0108837614279495	1	type IIA DNA topoisomerase subunit B
+0.0108837614279495	1	ISAs1 family transposase, partial
+0.0108837614279495	1	thiosulfate transporter subunit
+0.0108837614279495	1	ABC transporter
+0.0108837614279495	1	L-sorbose 1-phosphate reductase
+0.0108837614279495	1	histone
+0.0108837614279495	1	exodeoxyribonuclease I
+0.0108837614279495	1	alkyl hydroperoxide reductase
+0.0108837614279495	1	MULTISPECIES: diaminopimelate epimerase
+0.0108837614279495	1	L-rhamnose mutarotase
+0.0108837614279495	1	gluconokinase
+0.0108837614279495	1	DNA polymerase III subunit psi, partial
+0.0108837614279495	1	DNA ligase D
+0.0108837614279495	1	DUF3502 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: glycosyl transferase family 2
+0.0108837614279495	1	RNase J family MBL fold metallo-hydrolase
+0.0108837614279495	1	5-methylcytosine-specific restriction protein B
+0.0108837614279495	1	terminase
+0.0108837614279495	1	transglutaminase family protein
+0.0108837614279495	1	phosphoglyceromutase
+0.0108837614279495	1	D-tyrosyl-tRNA(Tyr) deacylase
+0.0108837614279495	1	conjugal transfer protein TrbF
+0.0108837614279495	1	MULTISPECIES: 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+0.0108837614279495	1	phenylalanine--tRNA ligase subunit beta
+0.0108837614279495	1	MULTISPECIES: dATP pyrophosphohydrolase
+0.0108837614279495	1	Spanin from lambdoid prophage DLP12, outer membrane subunit
+0.0108837614279495	1	MULTISPECIES: NCS2 family permease
+0.0108837614279495	1	oxidative damage protection protein
+0.0108837614279495	1	MULTISPECIES: cellulose biosynthesis protein BcsE
+0.0108837614279495	1	F0F1 ATP synthase subunit beta
+0.0108837614279495	1	adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA
+0.0108837614279495	1	MULTISPECIES: DUF1725 domain-containing protein
+0.0108837614279495	1	DNA-directed RNA polymerase subunit beta
+0.0108837614279495	1	MULTISPECIES: type II citrate synthase
+0.0108837614279495	1	cysteine desulfurase
+0.0108837614279495	1	carboxy-S-adenosyl-L-methionine synthase CmoA, partial
+0.0108837614279495	1	GTP cyclohydrolase I FolE
+0.0108837614279495	1	MULTISPECIES: protein-L-isoaspartate O-methyltransferase
+0.0108837614279495	1	multidrug ABC transporter permease/ATP-binding protein
+0.0108837614279495	1	ergothioneine biosynthesis protein EgtB
+0.0108837614279495	1	asparagine synthase B
+0.0108837614279495	1	MULTISPECIES: DNA-directed RNA polymerase subunit beta'
+0.0108837614279495	1	DUF2840 domain-containing protein
+0.0108837614279495	1	porin OmpA
+0.0108837614279495	1	streptothricin N-acetyltransferase Sat4, partial
+0.0108837614279495	1	ketopantoate reductase
+0.0108837614279495	1	beta-galactosidase subunit alpha
+0.0108837614279495	1	UDP-N-acetylmuramate--L-alanine ligase, partial
+0.0108837614279495	1	MULTISPECIES: FadR family transcriptional regulator
+0.0108837614279495	1	outer membrane protein assembly factor BamD
+0.0108837614279495	1	30S ribosomal protein S19
+0.0108837614279495	1	MULTISPECIES: RND transporter
+0.0108837614279495	1	MULTISPECIES: NADH-quinone oxidoreductase subunit N
+0.0108837614279495	1	aspartate aminotransferase family protein
+0.0108837614279495	1	transposase, partial
+0.0108837614279495	1	cutinase family protein
+0.0108837614279495	1	peptidase S1
+0.0108837614279495	1	succinyldiaminopimelate transaminase
+0.0108837614279495	1	ATP-dependent DNA helicase
+0.0108837614279495	1	MULTISPECIES: phosphoglycerate kinase
+0.0108837614279495	1	2-deoxy-D-gluconate 3-dehydrogenase
+0.0108837614279495	1	aldose 1-epimerase
+0.0108837614279495	1	DUF3388 domain-containing protein, partial
+0.0108837614279495	1	DUF2138 domain-containing protein
+0.0108837614279495	1	lambda prophage-derived head-to-tail joining protein W
+0.0108837614279495	1	metal ABC transporter permease
+0.0108837614279495	1	nitrate reductase subunit beta
+0.0108837614279495	1	MULTISPECIES: phosphate acyltransferase
+0.0108837614279495	1	gfo/Idh/MocA family oxidoreductase
+0.0108837614279495	1	electron transfer flavoprotein
+0.0108837614279495	1	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+0.0108837614279495	1	Trk system potassium transport protein TrkA
+0.0108837614279495	1	alpha-ketoglutarate decarboxylase
+0.0108837614279495	1	pyridoxal 5'-phosphate synthase lyase subunit PdxS
+0.0108837614279495	1	flagellar motor switch protein FliG
+0.0108837614279495	1	glycosyltransferase family 2 protein
+0.0108837614279495	1	DUF2859 domain-containing protein
+0.0108837614279495	1	fimbrial adhesin FimH
+0.0108837614279495	1	glutathione-regulated potassium-efflux system protein KefC
+0.0108837614279495	1	dipeptidyl carboxypeptidase II
+0.0108837614279495	1	flagellar basal body rod modification protein FlgD
+0.0108837614279495	1	antibiotic ABC transporter ATP-binding protein, partial
+0.0108837614279495	1	MULTISPECIES: sulfite reductase
+0.0108837614279495	1	MULTISPECIES: outer membrane lipid asymmetry maintenance protein MlaD
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S1
+0.0108837614279495	1	glycogen synthase, partial
+0.0108837614279495	1	50S ribosomal protein L23
+0.0108837614279495	1	MULTISPECIES: class I SAM-dependent methyltransferase
+0.0108837614279495	1	ATP-dependent DNA helicase UvrD2
+0.0108837614279495	1	iron ABC transporter permease
+0.0108837614279495	1	biotin transporter BioY, partial
+0.0108837614279495	1	MULTISPECIES: peptide ABC transporter permease
+0.0108837614279495	1	O-acetyltransferase
+0.0108837614279495	1	glucan biosynthesis glucosyltransferase H
+0.0108837614279495	1	primosomal protein N'
+0.0108837614279495	1	LLM class flavin-dependent oxidoreductase
+0.0108837614279495	1	competence protein ComE
+0.0108837614279495	1	MULTISPECIES: type IV secretory pathway VirB4 components-like protein
+0.0108837614279495	1	two-component sensor histidine kinase BarA
+0.0108837614279495	1	polyketide synthase
+0.0108837614279495	1	nitroreductase
+0.0108837614279495	1	MULTISPECIES: transcription-repair coupling factor
+0.0108837614279495	1	MULTISPECIES: GMP reductase
+0.0108837614279495	1	PTS sorbitol transporter subunit IIB
+0.0108837614279495	1	enoyl-CoA hydratase
+0.0108837614279495	1	immunoglobulin-binding protein sbi
+0.0108837614279495	1	AcrB/AcrD/AcrF family protein
+0.0108837614279495	1	nitrite reductase large subunit
+0.0108837614279495	1	MULTISPECIES: 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+0.0108837614279495	1	pantothenate kinase, partial
+0.0108837614279495	1	histidine kinase
+0.0108837614279495	1	cell division protein FtsX
+0.0108837614279495	1	peptidase C10
+0.0108837614279495	1	GspE family protein
+0.0108837614279495	1	NAD(P)H:quinone oxidoreductase, type IV
+0.0108837614279495	1	DNA ligase (NAD(+)) LigA
+0.0108837614279495	1	MULTISPECIES: pyruvate formate-lyase 1-activating enzyme
+0.0108837614279495	1	MULTISPECIES: acetolactate synthase 3 large subunit
+0.0108837614279495	1	Fe-S cluster assembly protein SufD
+0.0108837614279495	1	EAL domain-containing protein
+0.0108837614279495	1	MULTISPECIES: RidA family protein
+0.0108837614279495	1	uroporphyrinogen-III C-methyltransferase
+0.0108837614279495	1	MULTISPECIES: 50S ribosomal protein L19
+0.0108837614279495	1	energy transducer TonB
+0.0108837614279495	1	arylsulfatase
+0.0108837614279495	1	threonylcarbamoyl-AMP synthase
+0.0108837614279495	1	acyl-CoA thioesterase
+0.0108837614279495	1	AMP-binding acetyl-CoA synthetase
+0.0108837614279495	1	DNA helicase UvrD
+0.0108837614279495	1	DUF3596 domain-containing protein
+0.0108837614279495	1	IS30 family transposase
+0.0108837614279495	1	MULTISPECIES: Xaa-Pro aminopeptidase
+0.0108837614279495	1	cysteine desulfurase NifS
+0.0108837614279495	1	ribonuclease HIII
+0.0108837614279495	1	MULTISPECIES: serine/threonine protein kinase
+0.0108837614279495	1	aminopeptidase N
+0.0108837614279495	1	phage tail assembly protein T
+0.0108837614279495	1	D-Ala-D-Ala carboxypeptidase
+0.0108837614279495	1	metal ABC transporter substrate-binding protein, partial
+0.0108837614279495	1	LPS ABC transporter ATP-binding protein
+0.0108837614279495	1	electron transfer flavoprotein subunit alpha
+0.0108837614279495	1	MULTISPECIES: peptidase S1
+0.0108837614279495	1	DUF4862 domain-containing protein
+0.0108837614279495	1	luciferase family oxidoreductase
+0.0108837614279495	1	30S ribosomal protein S9
+0.0108837614279495	1	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, partial
+0.0108837614279495	1	4Fe-4S ferredoxin
+0.0108837614279495	1	two-component system sensor histidine kinase DcuS
+0.0108837614279495	1	aspartate carbamoyltransferase
+0.0108837614279495	1	ATP-dependent RNA helicase RhlE
+0.0108837614279495	1	methylmalonate-semialdehyde dehydrogenase (CoA acylating)
+0.0108837614279495	1	2-dehydropantoate 2-reductase
+0.0108837614279495	1	type I polyketide synthase
+0.0108837614279495	1	DNA (cytosine-5-)-methyltransferase
+0.0108837614279495	1	methylisocitrate lyase
+0.0108837614279495	1	MULTISPECIES: methyl-accepting chemotaxis protein
+0.0108837614279495	1	lipoate--protein ligase
+0.0108837614279495	1	urea ABC transporter ATP-binding protein UrtD
+0.0108837614279495	1	MULTISPECIES: preprotein translocase subunit SecA
+0.0108837614279495	1	MULTISPECIES: TIGR01459 family HAD-type hydrolase
+0.0108837614279495	1	MULTISPECIES: DUF979 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: Hsp20/alpha crystallin family protein
+0.0108837614279495	1	iron citrate ABC transporter substrate-binding protein
+0.0108837614279495	1	DUF1727 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S4
+0.0108837614279495	1	short-chain dehydrogenase
+0.0108837614279495	1	preprotein translocase subunit SecG
+0.0108837614279495	1	biofilm formation regulator HmsP
+0.0108837614279495	1	DUF4129 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: iron ABC transporter substrate-binding protein
+0.0108837614279495	1	aminopeptidase, partial
+0.0108837614279495	1	glycoside-pentoside-hexuronide family transporter
+0.0108837614279495	1	30S ribosomal protein S14
+0.0108837614279495	1	K+/H+ antiporter
+0.0108837614279495	1	tyrosine recombinase XerS
+0.0108837614279495	1	molybdenum cofactor cytidylyltransferase
+0.0108837614279495	1	MULTISPECIES: transglutaminase family protein
+0.0108837614279495	1	serine/threonine protein phosphatase, partial
+0.0108837614279495	1	chemotaxis response regulator protein-glutamate methylesterase
+0.0108837614279495	1	MULTISPECIES: 50S ribosomal protein L2
+0.0108837614279495	1	cytochrome ubiquinol oxidase subunit I
+0.0108837614279495	1	ammonia channel protein
+0.0108837614279495	1	type IV pilus modification protein PilV
+0.0108837614279495	1	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+0.0108837614279495	1	lipid hydroperoxide peroxidase
+0.0108837614279495	1	tRNA glutamyl-Q(34) synthetase GluQRS
+0.0108837614279495	1	lipid A phosphoethanolamine transferase
+0.0108837614279495	1	MULTISPECIES: phosphoribosylamine--glycine ligase
+0.0108837614279495	1	MULTISPECIES: homoserine O-acetyltransferase
+0.0108837614279495	1	L-asparaginase
+0.0108837614279495	1	MULTISPECIES: decarboxylase UbiD
+0.0108837614279495	1	S4 domain protein
+0.0108837614279495	1	HslU--HslV peptidase ATPase subunit
+0.0108837614279495	1	RNA polymerase sigma factor SigB
+0.0108837614279495	1	ArsC family reductase
+0.0108837614279495	1	riboflavin synthase subunit alpha
+0.0108837614279495	1	plasmid mobilization protein, partial
+0.0108837614279495	1	helicase IV
+0.0108837614279495	1	MULTISPECIES: pyrroloquinoline quinone biosynthesis protein PqqE
+0.0108837614279495	1	MULTISPECIES: pantoate--beta-alanine ligase
+0.0108837614279495	1	type III secretion apparatus protein OrgA/MxiK, partial
+0.0108837614279495	1	bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase
+0.0108837614279495	1	PEP-CTERM sorting domain-containing protein
+0.0108837614279495	1	D-alanine--D-alanine ligase
+0.0108837614279495	1	Tet(A)/Tet(B)/Tet(C) family tetracycline efflux MFS transporter, partial
+0.0108837614279495	1	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+0.0108837614279495	1	ribosome small subunit-dependent GTPase A
+0.0108837614279495	1	diguanylate phosphodiesterase
+0.0108837614279495	1	HNH endonuclease
+0.0108837614279495	1	prolipoprotein diacylglyceryl transferase
+0.0108837614279495	1	MULTISPECIES: short chain dehydrogenase
+0.0108837614279495	1	MULTISPECIES: 23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+0.0108837614279495	1	tripartite tricarboxylate transporter permease
+0.0108837614279495	1	isocitrate dehydrogenase, NADP-dependent
+0.0108837614279495	1	4'-phosphopantetheinyl transferase
+0.0108837614279495	1	diguanylate phosphodiesterase, partial
+0.0108837614279495	1	DNA repair exonuclease
+0.0108837614279495	1	transcriptional initiation protein Tat
+0.0108837614279495	1	MULTISPECIES: peptide chain release factor 1
+0.0108837614279495	1	3-phosphoshikimate 1-carboxyvinyltransferase
+0.0108837614279495	1	InsA protein, partial
+0.0108837614279495	1	50S ribosomal protein L2
+0.0108837614279495	1	MULTISPECIES: 2-dehydropantoate 2-reductase
+0.0108837614279495	1	metal-independent alpha-mannosidase
+0.0108837614279495	1	RelA/SpoT family protein
+0.0108837614279495	1	ribonuclease E
+0.0108837614279495	1	transcription termination/antitermination protein NusA
+0.0108837614279495	1	sulfurtransferase
+0.0108837614279495	1	DUF1501 domain-containing protein
+0.0108837614279495	1	kinase, partial
+0.0108837614279495	1	sugar ABC transporter substrate-binding protein
+0.0108837614279495	1	signal peptidase II
+0.0108837614279495	1	DNA internalization-related competence protein ComEC/Rec2
+0.0108837614279495	1	cysteine ABC transporter ATP-binding protein, partial
+0.0108837614279495	1	ATPase
+0.0108837614279495	1	MULTISPECIES: rRNA pseudouridine synthase
+0.0108837614279495	1	cyanophycin synthetase
+0.0108837614279495	1	MULTISPECIES: serine dehydratase subunit alpha family protein
+0.0108837614279495	1	MULTISPECIES: thioredoxin
+0.0108837614279495	1	MULTISPECIES: DUF4300 domain-containing protein
+0.0108837614279495	1	CesD/SycD/LcrH family type III secretion system chaperone
+0.0108837614279495	1	transporter, partial
+0.0108837614279495	1	phytanoyl-CoA dioxygenase
+0.0108837614279495	1	MULTISPECIES: patatin
+0.0108837614279495	1	ribosome biogenesis GTPase YqeH
+0.0108837614279495	1	MULTISPECIES: purine permease
+0.0108837614279495	1	Fe-S cluster assembly protein SufB
+0.0108837614279495	1	pentapeptide repeats-related protein
+0.0108837614279495	1	pyridine nucleotide-disulfide oxidoreductase
+0.0108837614279495	1	RepA replication protein
+0.0108837614279495	1	sugar phosphate isomerase/epimerase
+0.0108837614279495	1	NADP-dependent 6-phosphogluconate dehydrogenase
+0.0108837614279495	1	MULTISPECIES: primosomal protein N'
+0.0108837614279495	1	putative selenate reductase subunit YgfK
+0.0108837614279495	1	O-acetylhomoserine aminocarboxypropyltransferase
+0.0108837614279495	1	3-deoxy-D-manno-octulosonic acid transferase
+0.0108837614279495	1	DEAD/DEAH box helicase
+0.0108837614279495	1	phage tail assembly protein T, partial
+0.0108837614279495	1	pyridoxal phosphate-dependent aminotransferase
+0.0108837614279495	1	phosphate acyltransferase
+0.0108837614279495	1	topoisomerase
+0.0108837614279495	1	hybrid sensor histidine kinase/response regulator
+0.0108837614279495	1	Zn-dependent hydrolase
+0.0108837614279495	1	sensor histidine kinase efflux regulator BaeS
+0.0108837614279495	1	ribosomal subunit interface protein
+0.0108837614279495	1	pentapeptide repeat-containing protein
+0.0108837614279495	1	(2Fe-2S)-binding protein
+0.0108837614279495	1	DNA-3-methyladenine glycosylase I
+0.0108837614279495	1	glutamine synthetase
+0.0108837614279495	1	chemotaxis protein
+0.0108837614279495	1	DNA replication and repair protein RecF
+0.0108837614279495	1	beta-N-acetylglucosaminidase
+0.0108837614279495	1	MULTISPECIES: phosphatase
+0.0108837614279495	1	esterase
+0.0108837614279495	1	2-enoate reductase
+0.0108837614279495	1	oligopeptide ABC transporter substrate-binding protein OppA
+0.0108837614279495	1	DUF1190 domain-containing protein
+0.0108837614279495	1	elongation factor Tu
+0.0108837614279495	1	conjugative transfer ATPase
+0.0108837614279495	1	anaerobic ribonucleoside-triphosphate reductase activating protein
+0.0108837614279495	1	threonine dehydratase, partial
+0.0108837614279495	1	acetyl-CoA acyltransferase
+0.0108837614279495	1	DUF1479 domain-containing protein
+0.0108837614279495	1	ferredoxin
+0.0108837614279495	1	bifunctional UDP-glucuronic acid oxidase/UDP-4-amino-4-deoxy-L-arabinose formyltransferase
+0.0108837614279495	1	penicillin-binding protein, partial
+0.0108837614279495	1	DNA helicase RecQ
+0.0108837614279495	1	oligopeptidase B
+0.0108837614279495	1	trimethylamine N-oxide reductase I catalytic subunit
+0.0108837614279495	1	7-cyano-7-deazaguanine synthase
+0.0108837614279495	1	TIGR03746 family integrating conjugative element protein
+0.0108837614279495	1	glyoxylate carboligase
+0.0108837614279495	1	branched-chain amino acid aminotransferase
+0.0108837614279495	1	phage resistance protein
+0.0108837614279495	1	inner membrane protein YhjD
+0.0108837614279495	1	fumarate reductase iron-sulfur subunit
+0.0108837614279495	1	exonuclease subunit SbcC
+0.0108837614279495	1	excinuclease ABC subunit A
+0.0108837614279495	1	galactonate oxidoreductase
+0.0108837614279495	1	MULTISPECIES: MaoC family dehydratase
+0.0108837614279495	1	ATP-dependent Clp protease ATP-binding subunit ClpX
+0.0108837614279495	1	sulfate adenylyltransferase subunit CysN
+0.0108837614279495	1	D-alanyl-lipoteichoic acid biosynthesis protein DltB
+0.0108837614279495	1	periplasmic chaperone
+0.0108837614279495	1	peptidoglycan bridge formation protein FemAB
+0.0108837614279495	1	glycoside hydrolase family 10 protein
+0.0108837614279495	1	phosphogluconate dehydratase
+0.0108837614279495	1	30S ribosomal protein S2
+0.0108837614279495	1	malate dehydrogenase
+0.0108837614279495	1	dTDP-4-dehydrorhamnose reductase
+0.0108837614279495	1	2-hydroxyacyl-CoA dehydratase
+0.0108837614279495	1	DivIVA domain-containing protein
+0.0108837614279495	1	YhcH/YjgK/YiaL family protein
+0.0108837614279495	1	bifunctional metallophosphatase/5'-nucleotidase
+0.0108837614279495	1	DUF4276 domain-containing protein
+0.0108837614279495	1	cadmium transporter
+0.0108837614279495	1	glucose-6-phosphate dehydrogenase
+0.0108837614279495	1	ATP-dependent RNA helicase
+0.0108837614279495	1	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+0.0108837614279495	1	deoxyribonuclease IV
+0.0108837614279495	1	5-methylcytosine-specific restriction endonuclease system specificity protein McrC
+0.0108837614279495	1	MULTISPECIES: long-chain-fatty-acid--CoA ligase
+0.0108837614279495	1	MULTISPECIES: trans-aconitate 2-methyltransferase
+0.0108837614279495	1	DUF4753 domain-containing protein
+0.0108837614279495	1	PolC-type DNA polymerase III
+0.0108837614279495	1	MULTISPECIES: chromosomal replication initiator protein DnaA
+0.0108837614279495	1	beta-channel forming cytolysin
+0.0108837614279495	1	miniconductance mechanosensitive channel YbdG
+0.0108837614279495	1	dihydrodipicolinate reductase
+0.0108837614279495	1	charged multivesicular body protein 2b-B
+0.0108837614279495	1	ATP-dependent protease ATP-binding subunit ClpX, partial
+0.0108837614279495	1	short-chain dehydrogenase/reductase
+0.0108837614279495	1	phosphate regulon sensor histidine kinase PhoR
+0.0108837614279495	1	membrane protein, partial
+0.0108837614279495	1	ureidoglycolate lyase
+0.0108837614279495	1	ParA family protein
+0.0108837614279495	1	phospholipase
+0.0108837614279495	1	MULTISPECIES: ATPase
+0.0108837614279495	1	acyl-CoA thioester hydrolase
+0.0108837614279495	1	alanine:cation symporter family protein
+0.0108837614279495	1	recombination protein RecR
+0.0108837614279495	1	indolepyruvate ferredoxin oxidoreductase
+0.0108837614279495	1	adenylate kinase
+0.0108837614279495	1	5-formyltetrahydrofolate cyclo-ligase
+0.0108837614279495	1	RNase J family beta-CASP ribonuclease, partial
+0.0108837614279495	1	MULTISPECIES: precorrin-6A synthase (deacetylating)
+0.0108837614279495	1	UDP-galactopyranose mutase, partial
+0.0108837614279495	1	choline transporter
+0.0108837614279495	1	molecular chaperone DnaK, partial
+0.0108837614279495	1	DNA repair protein Rad50
+0.0108837614279495	1	dipeptide epimerase
+0.0108837614279495	1	adenosylcobalamin-dependent ribonucleoside-triphosphate reductase
+0.0108837614279495	1	energy-coupling factor transporter ATPase
+0.0108837614279495	1	MULTISPECIES: pyridoxamine 5'-phosphate oxidase family protein
+0.0108837614279495	1	urea transporter
+0.0108837614279495	1	MULTISPECIES: fatty acid--CoA ligase
+0.0108837614279495	1	amino acid ABC transporter substrate-binding protein
+0.0108837614279495	1	ribose 5-phosphate isomerase A
+0.0108837614279495	1	glutamate-5-semialdehyde dehydrogenase, partial
+0.0108837614279495	1	MULTISPECIES: 3-phosphoserine/phosphohydroxythreonine aminotransferase
+0.0108837614279495	1	MULTISPECIES: conjugative transfer ATPase
+0.0108837614279495	1	voltage-gated potassium channel
+0.0108837614279495	1	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+0.0108837614279495	1	murein transglycosylase
+0.0108837614279495	1	MULTISPECIES: anti-sigma factor antagonist
+0.0108837614279495	1	RecD/TraA family helicase
+0.0108837614279495	1	thiolase family protein
+0.0108837614279495	1	UMP kinase
+0.0108837614279495	1	helix-turn-helix transcriptional regulator
+0.0108837614279495	1	MULTISPECIES: thiamine-monophosphate kinase
+0.0108837614279495	1	sulfate adenylyltransferase subunit 2
+0.0108837614279495	1	DUF47 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: cobaltochelatase subunit CobN
+0.0108837614279495	1	L-serine ammonia-lyase
+0.0108837614279495	1	peptidoglycan-binding protein LysM
+0.0108837614279495	1	type-IV secretion system protein TraC
+0.0108837614279495	1	phospholipase D family protein
+0.0108837614279495	1	general secretion pathway protein GspJ
+0.0108837614279495	1	lipase LipA, partial
+0.0108837614279495	1	MULTISPECIES: 50S ribosomal protein L16
+0.0108837614279495	1	MULTISPECIES: signal transduction histidine kinase
+0.0108837614279495	1	hydratase
+0.0108837614279495	1	cell envelope integrity protein CreD
+0.0108837614279495	1	MULTISPECIES: class A broad-spectrum beta-lactamase TEM-116
+0.0108837614279495	1	fructokinase
+0.0108837614279495	1	protein serine/threonine phosphatase 2C family protein
+0.0108837614279495	1	MULTISPECIES: TetR/AcrR family transcriptional regulator
+0.0108837614279495	1	L-tartrate:succinate antiporter
+0.0108837614279495	1	trypsin
+0.0108837614279495	1	outer membrane protein assembly factor BamB
+0.0108837614279495	1	NAD(P)-dependent oxidoreductase, partial
+0.0108837614279495	1	Asp23/Gls24 family envelope stress response protein
+0.0108837614279495	1	polyhydroxyalkanoate depolymerase
+0.0108837614279495	1	MULTISPECIES: TatD family deoxyribonuclease
+0.0108837614279495	1	cupin domain-containing protein
+0.0108837614279495	1	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+0.0108837614279495	1	lysophospholipase
+0.0108837614279495	1	hemolysin E
+0.0108837614279495	1	serine/threonine protein phosphatase
+0.0108837614279495	1	DUF480 domain-containing protein
+0.0108837614279495	1	2,4-dienoyl-CoA reductase
+0.0108837614279495	1	HTH domain-containing protein
+0.0108837614279495	1	phenylacetic acid degradation bifunctional protein PaaZ
+0.0108837614279495	1	argininosuccinate synthase
+0.0108837614279495	1	trigger factor
+0.0108837614279495	1	MULTISPECIES: metalloprotease TldD
+0.0108837614279495	1	MULTISPECIES: dihydroxy-acid dehydratase
+0.0108837614279495	1	5-methyltetrahydrofolate--homocysteine methyltransferase
+0.0108837614279495	1	voltage-gated chloride channel
+0.0108837614279495	1	ATP synthase subunit beta
+0.0108837614279495	1	pilus assembly protein
+0.0108837614279495	1	ATP-dependent Clp protease ATP-binding subunit, partial
+0.0108837614279495	1	sel1 repeat family protein
+0.0108837614279495	1	PTS mannose transporter subunit IIABC
+0.0108837614279495	1	MULTISPECIES: outer membrane autotransporter barrel domain-containing protein
+0.0108837614279495	1	1,4-dihydroxy-2-naphthoyl-CoA synthase
+0.0108837614279495	1	phosphotransferase
+0.0108837614279495	1	PhoH family protein
+0.0108837614279495	1	cell division protein FtsK
+0.0108837614279495	1	Cu(2+)-exporting ATPase
+0.0108837614279495	1	ribonuclease P
+0.0108837614279495	1	tail protein
+0.0108837614279495	1	MULTISPECIES: DUF3093 domain-containing protein
+0.0108837614279495	1	response regulator
+0.0108837614279495	1	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+0.0108837614279495	1	4-hydroxyphenylacetate permease
+0.0108837614279495	1	class I SAM-dependent rRNA methyltransferase
+0.0108837614279495	1	Tn3 family transposase
+0.0108837614279495	1	phosphoglucosamine mutase
+0.0108837614279495	1	peptide-methionine (R)-S-oxide reductase
+0.0108837614279495	1	cell division protein FtsW
+0.0108837614279495	1	MULTISPECIES: DNA-binding protein WhiA
+0.0108837614279495	1	MULTISPECIES: signal recognition particle protein
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S8
+0.0108837614279495	1	biofilm peroxide resistance protein BsmA
+0.0108837614279495	1	glucosamine-6-phosphate deaminase
+0.0108837614279495	1	colanic acid biosynthesis protein WcaM
+0.0108837614279495	1	peptidase T
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S9
+0.0108837614279495	1	50S ribosomal protein L6
+0.0108837614279495	1	tRNA-specific adenosine deaminase
+0.0108837614279495	1	two-component system sensor histidine kinase KdbD
+0.0108837614279495	1	pyrroline-5-carboxylate reductase
+0.0108837614279495	1	ATP synthase F0F1 subunit gamma
+0.0108837614279495	1	3-keto-L-gulonate-6-phosphate decarboxylase
+0.0108837614279495	1	diaminopimelate decarboxylase
+0.0108837614279495	1	protein NinG
+0.0108837614279495	1	glycogen debranching enzyme GlgX
+0.0108837614279495	1	GTPase Era
+0.0108837614279495	1	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
+0.0108837614279495	1	MULTISPECIES: chloride channel protein
+0.0108837614279495	1	DUF2309 domain-containing protein
+0.0108837614279495	1	protein HokA
+0.0108837614279495	1	YeeE/YedE family protein
+0.0108837614279495	1	oxidoreductase
+0.0108837614279495	1	MULTISPECIES: peptidase
+0.0108837614279495	1	flavodoxin FldB, partial
+0.0108837614279495	1	uroporphyrinogen decarboxylase
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S13
+0.0108837614279495	1	insulinase family protein
+0.0108837614279495	1	e14 prophage; SAM-dependent methyltransferase
+0.0108837614279495	1	MULTISPECIES: SpoVR family protein
+0.0108837614279495	1	holin
+0.0108837614279495	1	4-oxalocrotonate tautomerase
+0.0108837614279495	1	GTP-binding protein
+0.0108837614279495	1	glutamate:protein symporter
+0.0108837614279495	1	DNA adenine methylase
+0.0108837614279495	1	30S ribosomal protein S10
+0.0108837614279495	1	stage V sporulation protein B
+0.0108837614279495	1	Partitioning protein REP1
+0.0108837614279495	1	MULTISPECIES: cytochrome C biogenesis protein CcdA
+0.0108837614279495	1	ribonucleoside-diphosphate reductase subunit alpha
+0.0108837614279495	1	bifunctional diguanylate cyclase/phosphodiesterase
+0.0108837614279495	1	biotin transporter BioY
+0.0108837614279495	1	MULTISPECIES: carbamate kinase
+0.0108837614279495	1	ATP synthase F0F1 subunit delta
+0.0108837614279495	1	dioxygenase
+0.0108837614279495	1	N-acetyltransferase
+0.0108837614279495	1	MULTISPECIES: DNA-directed RNA polymerase subunit beta
+0.0108837614279495	1	MULTISPECIES: 1-acyl-sn-glycerol-3-phosphate acyltransferase
+0.0108837614279495	1	octanoyltransferase
+0.0108837614279495	1	class A beta-lactamase
+0.0108837614279495	1	sugar ABC transporter permease
+0.0108837614279495	1	multidrug ABC transporter ATP-binding protein
+0.0108837614279495	1	MULTISPECIES: DUF5131 domain-containing protein
+0.0108837614279495	1	peptidase M13
+0.0108837614279495	1	PhzF family phenazine biosynthesis protein
+0.0108837614279495	1	MULTISPECIES: cell division protein FtsK
+0.0108837614279495	1	cell division inhibitor SulA
+0.0108837614279495	1	NAD-glutamate dehydrogenase
+0.0108837614279495	1	peptidylprolyl isomerase
+0.0108837614279495	1	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+0.0108837614279495	1	homoserine O-acetyltransferase
+0.0108837614279495	1	beta-ketoacyl
+0.0108837614279495	1	triose-phosphate isomerase
+0.0108837614279495	1	RluA family pseudouridine synthase
+0.0108837614279495	1	acyl--CoA ligase
+0.0108837614279495	1	heat-inducible transcriptional repressor HrcA
+0.0108837614279495	1	tRNA cytosine(34) acetyltransferase TmcA
+0.0108837614279495	1	orotate phosphoribosyltransferase
+0.0108837614279495	1	multicopper oxidase
+0.0108837614279495	1	penicillin acylase family protein
+0.0108837614279495	1	MULTISPECIES: serine hydrolase family protein
+0.0108837614279495	1	ATP-dependent DNA ligase
+0.0108837614279495	1	MULTISPECIES: prepilin peptidase
+0.0108837614279495	1	molybdopterin biosynthesis protein MoeB
+0.0108837614279495	1	succinyl-CoA ligase subunit beta
+0.0108837614279495	1	MULTISPECIES: PIN domain-containing protein
+0.0108837614279495	1	cell division protein FtsK, partial
+0.0108837614279495	1	aldo/keto reductase
+0.0108837614279495	1	enhanced serine sensitivity protein SseB
+0.0108837614279495	1	DUF559 domain-containing protein
+0.0108837614279495	1	MULTISPECIES: protein-tyrosine-phosphatase
+0.0108837614279495	1	glutamate carboxypeptidase
+0.0108837614279495	1	riboflavin synthase subunit alpha, partial
+0.0108837614279495	1	methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO
+0.0108837614279495	1	MULTISPECIES: class II fumarate hydratase
+0.0108837614279495	1	DNA topoisomerase I
+0.0108837614279495	1	MULTISPECIES: bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+0.0108837614279495	1	protein phosphatase
+0.0108837614279495	1	DNA polymerase V subunit UmuC
+0.0108837614279495	1	methyl-galactoside ABC transporter substrate-binding protein
+0.0108837614279495	1	dynamin family protein
+0.0108837614279495	1	maltose alpha-D-glucosyltransferase
+0.0108837614279495	1	thymidylate synthase
+0.0108837614279495	1	MULTISPECIES: 2-oxoglutarate dehydrogenase subunit E1
+0.0108837614279495	1	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+0.0108837614279495	1	DUF1857 domain-containing protein
+0.0108837614279495	1	CRISPR-associated helicase/endonuclease Cas3, partial
+0.0108837614279495	1	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+0.0108837614279495	1	MULTISPECIES: excinuclease ABC subunit B
+0.0108837614279495	1	tetracycline resistance MFS efflux pump
+0.0108837614279495	1	WGR domain-containing protein, partial
+0.0108837614279495	1	bacteriocin
+0.0108837614279495	1	DNA-binding transcriptional regulator TyrR
+0.0108837614279495	1	MULTISPECIES: IscS subfamily cysteine desulfurase
+0.0108837614279495	1	PTS mannitol transporter subunit IIA
+0.0108837614279495	1	L-cysteine desulfhydrase
+0.0108837614279495	1	hydrogenase formation protein HypD, partial
+0.0108837614279495	1	PTS transporter subunit IIC
+0.0108837614279495	1	acetyl-CoA hydrolase
+0.0108837614279495	1	tyrosine--tRNA ligase, partial
+0.0108837614279495	1	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+0.0108837614279495	1	carbamoyl phosphate synthase small subunit
+0.0108837614279495	1	DUF1889 domain-containing protein
+0.0108837614279495	1	NAD+ synthase
+0.0108837614279495	1	poly(A) polymerase
+0.0108837614279495	1	glycosyl hydrolase
+0.0108837614279495	1	protein translocase subunit SecDF
+0.0108837614279495	1	zinc ABC transporter ATP-binding protein ZnuC
+0.0108837614279495	1	gluconate transporter
+0.0108837614279495	1	MULTISPECIES: HslU--HslV peptidase ATPase subunit
+0.0108837614279495	1	MULTISPECIES: 30S ribosomal protein S7
+0.0108837614279495	1	alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+0.0108837614279495	1	type IV secretion protein Rhs
+0.0108837614279495	1	pseudouridine-5-phosphate glycosidase
+0.0108837614279495	1	MULTISPECIES: nuclear transport factor 2 family protein
+0.0108837614279495	1	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+0.0108837614279495	1	biotin synthase BioB
+0.0108837614279495	1	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+0.0108837614279495	1	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+0.0108837614279495	1	xylose isomerase
+0.0108837614279495	1	cysteine/glutathione ABC transporter ATP-binding protein/permease CydC
+0.0108837614279495	1	sulfite reductase subunit alpha
+0.0108837614279495	1	DEAD/DEAH box helicase, partial
+0.0108837614279495	1	MULTISPECIES: FAD-dependent monooxygenase
+0.0108837614279495	1	signal transduction histidine kinase
+0.0108837614279495	1	pyruvate, phosphate dikinase
+0.0108837614279495	1	UDP-galactopyranose mutase
+0.0108837614279495	1	EamA/RhaT family transporter
+0.0108837614279495	1	MULTISPECIES: alanine glycine permease
+0.0108837614279495	1	DUF935 domain-containing protein
+0.0108837614279495	1	proline--tRNA ligase
+0.0108837614279495	1	YebC/PmpR family DNA-binding transcriptional regulator
+0.0108837614279495	1	adenylosuccinate synthetase
+0.0108837614279495	1	type III secretion apparatus protein OrgA/MxiK
+0.0108837614279495	1	MULTISPECIES: murein L,D-transpeptidase
+0.0108837614279495	1	DNA polymerase III subunit beta
+0.0108837614279495	1	carbohydrate ABC transporter permease
+0.0108837614279495	1	serine hydroxymethyltransferase
+0.0108837614279495	1	DUF2264 domain-containing protein
+0.0108837614279495	1	galactitol utilization operon repressor
+0.0108837614279495	1	molybdopterin adenylyltransferase
+0.0108837614279495	1	polysaccharide export protein EpsE
+0.0108837614279495	1	30S ribosomal protein S3
+0.0108837614279495	1	protease FtsH-inhibitory lysogeny factor CIII
+0.0108837614279495	1	23S rRNA (adenine(1618)-N(6))-methyltransferase
+0.0108837614279495	1	D-3-phosphoglycerate dehydrogenase
+0.0108837614279495	1	maltose transporter membrane protein
+0.0108837614279495	1	rRNA maturation RNase YbeY
+0.0108837614279495	1	energy coupling factor transporter S component ThiW
+0.0108837614279495	1	MULTISPECIES: uracil-DNA glycosylase
