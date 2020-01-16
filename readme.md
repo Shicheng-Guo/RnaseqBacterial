@@ -13,6 +13,8 @@ root:
 
 
 #### Timeline:
+* 01/16: result:`\\mcrfnas2\bigdata\Genetic\Projects\shg047\project\RnaseqBacterial\extdata\rnaseq\fastqscreen`
+* 01/16: Ryan told me the he cannot successully do what I want and so I only run it in BIRC7 which is quite slow
 * 01/16: A fast and robust protocol for metataxonomic analysis using RNAseq data: Microbiome. 2017; 5: 7.
 * 01/16: current result validated my expectation again, rRNA, tRNA, vector, adaptor counts for 80% of the reads. 
 * 01/16: I notice [Nature Metod](https://www.nature.com/articles/nmeth.3176) also mentioned another method called [DIAMOND](https://www.nature.com/articles/nmeth.3176) in 2015, I found it is powerful.
