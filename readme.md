@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-* 01/16: I notice [Nature Metod](https://www.nature.com/articles/nmeth.3176) also mentioned another method called [DIAMOND](https://www.nature.com/articles/nmeth.3176) in 2015, I tried it and found it is powerful.
+* 01/16: I notice [Nature Metod](https://www.nature.com/articles/nmeth.3176) also mentioned another method called [DIAMOND](https://www.nature.com/articles/nmeth.3176) in 2015, I found it is powerful.
 * 01/16: StringTie is better than Cufflinks, IsoLasso, Scripture and Traph as [Nature Biotechnology](https://www.nature.com/articles/nbt.3122) mentioned
 * 01/16: mergeCountFiles: https://rdrr.io/cran/rnaseqWrapper/man/mergeCountFiles.html
 * 01/16: check again is there any replications were set in this study? so that pca or mds can be done accurately
