@@ -13,6 +13,7 @@ root:
 
 
 #### Timeline:
+* 01/16: StringTie is better than Cufflinks, IsoLasso, Scripture and Traph as Nature Biotechnology mentioned
 * 01/16: mergeCountFiles: https://rdrr.io/cran/rnaseqWrapper/man/mergeCountFiles.html
 * 01/16: check again is there any replications were set in this study? so that pca or mds can be done accurately
 * 01/16: nothing was mentioned by tRNA and rRNA deplete in the protocol from Thao and Jeniffer (thinking why?)
