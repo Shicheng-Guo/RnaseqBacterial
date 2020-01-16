@@ -14,7 +14,7 @@ root:
 
 #### Timeline:
 
-* 01/16: nothing was mentioned by rRNA deplete in the protocol from Thao and Jeniffer (thinking about why?)
+* 01/16: nothing was mentioned by tRNA and rRNA deplete in the protocol from Thao and Jeniffer (thinking about why?)
 * 01/15: at least another way to measure the ratio of bacteria to host genome size to compare with reads distribution.
 * 01/15: think about the time points of the sampling, early immnue response? or late immune response? 
 * 01/11/2020, Just find CLARK have a new version and updated to [CLARKSCV1.2.6.1](http://clark.cs.ucr.edu/Tool/), in MCRI CHG1 server
