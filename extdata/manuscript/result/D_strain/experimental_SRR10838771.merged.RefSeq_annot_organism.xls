@@ -1,0 +1,703 @@
+RelativeActivity	counts	Genus
+38.467818750850455	2827	Escherichia coli
+3.361001496802286	247	Acinetobacter baumannii
+2.8031024629201253	206	Cutibacterium acnes
+2.2996326030752483	169	Erwinia amylovora
+1.7961627432303715	132	Bacteria
+1.6328752211185196	120	Salmonella enterica
+1.6056606340998776	118	Staphylococcus agnetis
+1.5648387535719146	115	Propionibacteriaceae
+1.3471220574227787	99	Thermus aquaticus
+1.2926928833854947	95	Enterobacteriaceae
+0.9389032521431487	69	Pelomonas sp.
+0.9389032521431487	69	Propionibacterium sp.
+0.8708667845965438	64	Clostridioides difficile
+0.8572594910872228	63	Candidatus Regiella
+0.8164376105592598	60	Aquabacterium parvum
+0.7484011430126548	55	Shigella sonnei
+0.6667573819567288	49	Delftia sp.
+0.6531500884474079	48	Proteobacteria
+0.6395427949380869	47	Lactobacillus delbrueckii
+0.6123282079194449	45	Shigella flexneri
+0.5851136209008029	43	Ralstonia sp.
+0.5715063273914819	42	Streptococcus pneumoniae
+0.5715063273914819	42	Escherichia
+0.5578990338821609	41	Sphingomonas sp.
+0.5578990338821609	41	Roseateles aquatilis
+0.5442917403728399	40	Curvibacter lanceolatus
+0.5170771533541979	38	Aquabacterium sp.
+0.5170771533541979	38	Pelomonas puraquae
+0.47625527282623487	35	Pseudomonas
+0.4490406858075929	33	Pseudomonas sp.
+0.4354333922982719	32	Stenotrophomonas maltophilia
+0.4354333922982719	32	Mycobacterium sp.
+0.4218260987889509	31	Fusobacterium nucleatum
+0.4218260987889509	31	Delftia acidovorans
+0.3946115117703089	29	Cupriavidus basilensis
+0.3673969247516669	27	Pseudomonas aeruginosa
+0.3673969247516669	27	Shigella sp.
+0.3673969247516669	27	Klebsiella pneumoniae
+0.3537896312423459	26	Bradyrhizobium sp.
+0.3401823377330249	25	Enterobacter cloacae
+0.3401823377330249	25	Bacillus cereus
+0.3265750442237039	24	Pelomonas
+0.3265750442237039	24	Delftia
+0.3265750442237039	24	Legionella pneumophila
+0.3265750442237039	24	Staphylococcus aureus
+0.27214587018641995	20	Pseudoxanthomonas mexicana
+0.25853857667709895	19	Citrobacter freundii
+0.25853857667709895	19	Micrococcus luteus
+0.25853857667709895	19	Shigella dysenteriae
+0.25853857667709895	19	Citrobacter
+0.25853857667709895	19	Shigella boydii
+0.24493128316777793	18	Methylobacterium sp.
+0.23132398965845694	17	Staphylococcus
+0.21771669614913594	16	Mycobacterium
+0.21771669614913594	16	Shigella
+0.21771669614913594	16	Lactobacillus brevis
+0.20410940263981495	15	Stenotrophomonas sp.
+0.19050210913049395	14	Ralstonia
+0.19050210913049395	14	Brevundimonas diminuta
+0.17689481562117296	13	Helicobacter pylori
+0.17689481562117296	13	Bradyrhizobium
+0.16328752211185196	12	Tamlana sp.
+0.16328752211185196	12	Sphingobium sp.
+0.16328752211185196	12	Bradyrhizobium elkanii
+0.14968022860253097	11	Brevundimonas sp.
+0.14968022860253097	11	Pseudomonas fluorescens
+0.13607293509320997	10	Comamonas testosteroni
+0.13607293509320997	10	Cutibacterium granulosum
+0.13607293509320997	10	Novosphingobium resinovorum
+0.13607293509320997	10	Streptococcus agalactiae
+0.13607293509320997	10	Bradyrhizobium embrapense
+0.13607293509320997	10	Mesorhizobium sp.
+0.13607293509320997	10	Enterobacter kobei
+0.13607293509320997	10	Alishewanella sp.
+0.13607293509320997	10	Paenibacillus odorifer
+0.13607293509320997	10	Trabulsiella odontotermitis
+0.13607293509320997	10	Cupriavidus sp.
+0.13607293509320997	10	Rhodococcus
+0.12246564158388897	9	Citrobacter werkmanii
+0.12246564158388897	9	Methylibium sp.
+0.12246564158388897	9	Lawsonella clevelandensis
+0.12246564158388897	9	Alishewanella jeotgali
+0.12246564158388897	9	Klebsiella aerogenes
+0.12246564158388897	9	Variovorax sp.
+0.12246564158388897	9	Staphylococcus capitis
+0.12246564158388897	9	Staphylococcus sp.
+0.12246564158388897	9	Ralstonia pickettii
+0.12246564158388897	9	Alishewanella
+0.10885834807456797	8	Streptococcus thermophilus
+0.10885834807456797	8	Pseudomonas syringae
+0.10885834807456797	8	Corynebacterium
+0.10885834807456797	8	Escherichia fergusonii
+0.10885834807456797	8	Acidovorax sp.
+0.10885834807456797	8	Staphylococcus epidermidis
+0.10885834807456797	8	Leifsonia sp.
+0.10885834807456797	8	Sphingomonas echinoides
+0.10885834807456797	8	Kosakonia pseudosacchari
+0.09525105456524698	7	Pseudomonas nitroreducens
+0.09525105456524698	7	Escherichia sp.
+0.09525105456524698	7	Turicella otitidis
+0.09525105456524698	7	Franconibacter pulveris
+0.09525105456524698	7	Staphylococcus warneri
+0.09525105456524698	7	Citrobacter sp.
+0.09525105456524698	7	Cutibacterium avidum
+0.09525105456524698	7	Curvibacter gracilis
+0.09525105456524698	7	Acinetobacter sp.
+0.08164376105592598	6	Sphingomonas elodea
+0.08164376105592598	6	Microbacterium sp.
+0.08164376105592598	6	Methylobacterium mesophilicum
+0.08164376105592598	6	Sphingomonas
+0.08164376105592598	6	Chlamydia abortus
+0.08164376105592598	6	Citrobacter europaeus
+0.08164376105592598	6	Sphingomonas sanguinis
+0.08164376105592598	6	Hydrogenophaga sp.
+0.08164376105592598	6	Caulobacter vibrioides
+0.08164376105592598	6	Pseudomonas stutzeri
+0.08164376105592598	6	Methylobacterium radiotolerans
+0.08164376105592598	6	Acinetobacter pittii
+0.08164376105592598	6	Cloacibacterium normanense
+0.08164376105592598	6	Rhodopseudomonas palustris
+0.08164376105592598	6	Bradyrhizobium pachyrhizi
+0.08164376105592598	6	Alishewanella agri
+0.08164376105592598	6	Rhodococcus erythropolis
+0.06803646754660499	5	Lactobacillus reuteri
+0.06803646754660499	5	Enterobacter
+0.06803646754660499	5	Staphylococcus lentus
+0.06803646754660499	5	Williamsia sp.
+0.06803646754660499	5	Alishewanella aestuarii
+0.06803646754660499	5	Caulobacter sp.
+0.06803646754660499	5	Herbaspirillum aquaticum
+0.06803646754660499	5	Corynebacterium pseudogenitalium
+0.06803646754660499	5	Polaromonas sp.
+0.06803646754660499	5	Pseudomonas pseudoalcaligenes
+0.06803646754660499	5	Brachybacterium sp.
+0.06803646754660499	5	Yersinia pestis
+0.06803646754660499	5	Bacillus thuringiensis
+0.06803646754660499	5	Mycobacterium obuense
+0.06803646754660499	5	Sphingomonas azotifigens
+0.06803646754660499	5	Escherichia albertii
+0.06803646754660499	5	Bacteroides sp.
+0.06803646754660499	5	Psychrobacter cibarius
+0.06803646754660499	5	Bacteroides thetaiotaomicron
+0.06803646754660499	5	Corynebacterium afermentans
+0.06803646754660499	5	Alcaligenes faecalis
+0.06803646754660499	5	Thermus tengchongensis
+0.06803646754660499	5	Ralstonia solanacearum
+0.06803646754660499	5	Chryseobacterium zeae
+0.054429174037283985	4	Veillonella
+0.054429174037283985	4	Sphingomonas paucimobilis
+0.054429174037283985	4	Achromobacter xylosoxidans
+0.054429174037283985	4	Burkholderia cepacia
+0.054429174037283985	4	Arthrobacter sp.
+0.054429174037283985	4	Chthoniobacter flavus
+0.054429174037283985	4	Peptoniphilus harei
+0.054429174037283985	4	Methylobacterium aquaticum
+0.054429174037283985	4	Rhodococcus sp.
+0.054429174037283985	4	Delftia lacustris
+0.054429174037283985	4	Actinomyces oris
+0.054429174037283985	4	Corynebacterium aurimucosum
+0.054429174037283985	4	Enterococcus faecium
+0.054429174037283985	4	Nocardioides sp.
+0.054429174037283985	4	Janibacter hoylei
+0.054429174037283985	4	Sphingomonas-like bacterium
+0.054429174037283985	4	Haemophilus parainfluenzae
+0.054429174037283985	4	Nocardioides
+0.054429174037283985	4	RhizobiumAgrobacterium group
+0.054429174037283985	4	Comamonadaceae bacterium
+0.054429174037283985	4	Asanoa ferruginea
+0.054429174037283985	4	Thermus antranikianii
+0.054429174037283985	4	Pseudolabrys sp.
+0.054429174037283985	4	Chryseobacterium sp.
+0.054429174037283985	4	Micrococcus sp.
+0.054429174037283985	4	Sanguibacter keddieii
+0.054429174037283985	4	Achromobacter sp.
+0.054429174037283985	4	Actinomyces sp.
+0.054429174037283985	4	Paucibacter sp.
+0.054429174037283985	4	Propionibacterium namnetense
+0.054429174037283985	4	Sphingomonadaceae
+0.054429174037283985	4	Corynebacterium sp.
+0.054429174037283985	4	Thermus caliditerrae
+0.054429174037283985	4	Mitsuaria sp.
+0.054429174037283985	4	Derxia lacustris
+0.054429174037283985	4	Ochrobactrum anthropi
+0.054429174037283985	4	Propionibacterium humerusii
+0.054429174037283985	4	Cupriavidus
+0.054429174037283985	4	Cupriavidus metallidurans
+0.054429174037283985	4	Actinobacteria
+0.054429174037283985	4	Comamonas badia
+0.054429174037283985	4	Prevotella copri
+0.054429174037283985	4	Nesterenkonia sp.
+0.054429174037283985	4	Mycobacterium avium
+0.054429174037283985	4	Streptococcus sp.
+0.054429174037283985	4	Sphingomonas dokdonensis
+0.054429174037283985	4	Staphylococcus pasteuri
+0.054429174037283985	4	Herbaspirillum
+0.054429174037283985	4	Pseudomonas mendocina
+0.04082188052796299	3	Azohydromonas lata
+0.04082188052796299	3	Inediibacterium massiliense
+0.04082188052796299	3	Nitrosomonas ureae
+0.04082188052796299	3	Klebsiella oxytoca
+0.04082188052796299	3	Nesterenkonia alba
+0.04082188052796299	3	Sphingobacterium sp.
+0.04082188052796299	3	Clostridium sp.
+0.04082188052796299	3	Pseudoxanthomonas sp.
+0.04082188052796299	3	Pseudopropionibacterium propionicum
+0.04082188052796299	3	Elizabethkingia meningoseptica
+0.04082188052796299	3	Burkholderiales
+0.04082188052796299	3	Porphyrobacter mercurialis
+0.04082188052796299	3	Burkholderia sp.
+0.04082188052796299	3	Kosakonia oryzendophytica
+0.04082188052796299	3	Proteus
+0.04082188052796299	3	Leifsonia xyli
+0.04082188052796299	3	Verminephrobacter aporrectodeae
+0.04082188052796299	3	Cronobacter malonaticus
+0.04082188052796299	3	Pseudorhodoferax sp.
+0.04082188052796299	3	Klebsiella
+0.04082188052796299	3	Clostridiales bacterium
+0.04082188052796299	3	Comamonadaceae
+0.04082188052796299	3	Mycobacterium tuberculosis
+0.04082188052796299	3	Porphyromonas sp.
+0.04082188052796299	3	Variovorax paradoxus
+0.04082188052796299	3	Herbaspirillum sp.
+0.04082188052796299	3	Clostridium aminophilum
+0.04082188052796299	3	Oligella sp.
+0.04082188052796299	3	Actinoplanes missouriensis
+0.04082188052796299	3	Novosphingobium sp.
+0.04082188052796299	3	Microbacterium
+0.04082188052796299	3	Methylobacterium
+0.04082188052796299	3	Streptococcus pseudopneumoniae
+0.04082188052796299	3	Bordetella holmesii
+0.04082188052796299	3	Burkholderia contaminans
+0.04082188052796299	3	Corynebacterium ihumii
+0.04082188052796299	3	Enhydrobacter sp.
+0.04082188052796299	3	Agrobacterium genomosp.
+0.04082188052796299	3	Paenibacillus pabuli
+0.04082188052796299	3	Rahnella
+0.04082188052796299	3	Steroidobacter denitrificans
+0.04082188052796299	3	Streptococcus
+0.04082188052796299	3	Aeromonas
+0.04082188052796299	3	Diaphorobacter sp.
+0.04082188052796299	3	Paenibacillus sp.
+0.04082188052796299	3	Kutzneria albida
+0.04082188052796299	3	Ideonella sp.
+0.04082188052796299	3	Sphingomonas mucosissima
+0.04082188052796299	3	Pseudomonas putida
+0.04082188052796299	3	Bradyrhizobium mercantei
+0.04082188052796299	3	Abiotrophia defectiva
+0.04082188052796299	3	Microbacterium ginsengisoli
+0.04082188052796299	3	Paraburkholderia caledonica
+0.04082188052796299	3	Tepidiphilus thermophilus
+0.04082188052796299	3	Bosea sp.
+0.04082188052796299	3	Actinomyces
+0.04082188052796299	3	Actinomyces israelii
+0.04082188052796299	3	Brevundimonas naejangsanensis
+0.04082188052796299	3	Paraburkholderia fungorum
+0.04082188052796299	3	Mangrovibacter sp.
+0.04082188052796299	3	Agrobacterium rhizogenes
+0.04082188052796299	3	Chryseobacterium halperniae
+0.027214587018641993	2	Staphylococcus hominis
+0.027214587018641993	2	Nesterenkonia jeotgali
+0.027214587018641993	2	Roseateles terrae
+0.027214587018641993	2	Paraburkholderia phenazinium
+0.027214587018641993	2	Luteimonas abyssi
+0.027214587018641993	2	Gordonia
+0.027214587018641993	2	Fenollaria massiliensis
+0.027214587018641993	2	Empedobacter falsenii
+0.027214587018641993	2	Pararhodospirillum photometricum
+0.027214587018641993	2	Micromonospora sp.
+0.027214587018641993	2	Dactylosporangium aurantiacum
+0.027214587018641993	2	Yersinia
+0.027214587018641993	2	Derxia gummosa
+0.027214587018641993	2	Bacillus velezensis
+0.027214587018641993	2	Methylibium petroleiphilum
+0.027214587018641993	2	Sanguibacteroides justesenii
+0.027214587018641993	2	Stenoxybacter acetivorans
+0.027214587018641993	2	Aeromonas aquatica
+0.027214587018641993	2	Xylella fastidiosa
+0.027214587018641993	2	Kocuria palustris
+0.027214587018641993	2	Pseudoruegeria marinistellae
+0.027214587018641993	2	Tardiphaga robiniae
+0.027214587018641993	2	Mesorhizobium amorphae
+0.027214587018641993	2	Mycobacterium gordonae
+0.027214587018641993	2	Enterobacter lignolyticus
+0.027214587018641993	2	Streptococcus mitis
+0.027214587018641993	2	Lelliottia amnigena
+0.027214587018641993	2	Shimwellia blattae
+0.027214587018641993	2	Agrobacterium tumefaciens
+0.027214587018641993	2	Cystobacter ferrugineus
+0.027214587018641993	2	Prevotella sp.
+0.027214587018641993	2	Herbaspirillum autotrophicum
+0.027214587018641993	2	Deinococcus murrayi
+0.027214587018641993	2	Hylemonella gracilis
+0.027214587018641993	2	Fusobacterium periodonticum
+0.027214587018641993	2	Chlamydia trachomatis
+0.027214587018641993	2	Methylibium
+0.027214587018641993	2	Cronobacter sakazakii
+0.027214587018641993	2	Enterobacterales
+0.027214587018641993	2	Agreia sp.
+0.027214587018641993	2	Acinetobacter calcoaceticusbaumannii
+0.027214587018641993	2	Pseudomonas marginalis
+0.027214587018641993	2	Chryseobacterium caeni
+0.027214587018641993	2	Rhodococcus enclensis
+0.027214587018641993	2	Candidatus Symbiobacter
+0.027214587018641993	2	Citrobacter braakii
+0.027214587018641993	2	Sinorhizobium fredii
+0.027214587018641993	2	Limnohabitans sp.
+0.027214587018641993	2	Escherichia marmotae
+0.027214587018641993	2	Neisseria dentiae
+0.027214587018641993	2	Terracidiphilus gabretensis
+0.027214587018641993	2	Nesterenkonia massiliensis
+0.027214587018641993	2	Halomonas sp.
+0.027214587018641993	2	Polaromonas glacialis
+0.027214587018641993	2	Pandoraea sp.
+0.027214587018641993	2	Diaphorobacter polyhydroxybutyrativorans
+0.027214587018641993	2	Brevundimonas abyssalis
+0.027214587018641993	2	Erysipelotrichaceae bacterium
+0.027214587018641993	2	Mycobacterium tusciae
+0.027214587018641993	2	Halomonas smyrnensis
+0.027214587018641993	2	Rothia mucilaginosa
+0.027214587018641993	2	Vibrio alginolyticus
+0.027214587018641993	2	Methylobacterium populi
+0.027214587018641993	2	Cellulomonas flavigena
+0.027214587018641993	2	Pseudonocardia autotrophica
+0.027214587018641993	2	Pseudomonas oleovorans
+0.027214587018641993	2	Alphaproteobacteria
+0.027214587018641993	2	Bacillus wiedmannii
+0.027214587018641993	2	Methylobacterium phyllosphaerae
+0.027214587018641993	2	Aeromicrobium massiliense
+0.027214587018641993	2	Hoeflea sp.
+0.027214587018641993	2	Sphingomonas pituitosa
+0.027214587018641993	2	Burkholderiaceae bacterium
+0.027214587018641993	2	Corynebacterium singulare
+0.027214587018641993	2	Xanthomonas citri
+0.027214587018641993	2	Kineococcus radiotolerans
+0.027214587018641993	2	Geodermatophilaceae bacterium
+0.027214587018641993	2	Paeniglutamicibacter antarcticus
+0.027214587018641993	2	Agrobacterium
+0.027214587018641993	2	Janthinobacterium
+0.027214587018641993	2	Gordonia soli
+0.027214587018641993	2	Photorhabdus luminescens
+0.027214587018641993	2	Corynebacterium tuscaniense
+0.027214587018641993	2	Peptoniphilus rhinitidis
+0.027214587018641993	2	Brevibacterium sp.
+0.027214587018641993	2	Acidiphilium sp.
+0.027214587018641993	2	Catenovulum agarivorans
+0.027214587018641993	2	Finegoldia magna
+0.027214587018641993	2	Oceanococcus atlanticus
+0.027214587018641993	2	Paenibacillus tyrfis
+0.027214587018641993	2	Kribbella flavida
+0.027214587018641993	2	Enterobacter cancerogenus
+0.027214587018641993	2	Prevotella melaninogenica
+0.027214587018641993	2	Tannerella forsythia
+0.027214587018641993	2	bacterium endosymbiont
+0.027214587018641993	2	Nocardiopsis salina
+0.027214587018641993	2	Burkholderia pseudomallei
+0.027214587018641993	2	Blautia massiliensis
+0.027214587018641993	2	Afipia massiliensis
+0.027214587018641993	2	Tatumella
+0.027214587018641993	2	Bordetella parapertussis
+0.027214587018641993	2	Nevskia soli
+0.027214587018641993	2	Staphylococcus intermedius
+0.027214587018641993	2	Stenotrophomonas
+0.027214587018641993	2	Brevibacillus borstelensis
+0.027214587018641993	2	Kribbella sp.
+0.027214587018641993	2	Methylocella silvestris
+0.027214587018641993	2	Gemella haemolysans
+0.027214587018641993	2	Paraburkholderia mimosarum
+0.027214587018641993	2	Xylophilus sp.
+0.027214587018641993	2	Enteractinococcus helveticum
+0.027214587018641993	2	Raoultella ornithinolytica
+0.027214587018641993	2	Rhodoferax antarcticus
+0.027214587018641993	2	Sphingobium japonicum
+0.027214587018641993	2	Aromatoleum aromaticum
+0.027214587018641993	2	Moraxella osloensis
+0.027214587018641993	2	Urmitella timonensis
+0.027214587018641993	2	Sphingomonas taxi
+0.027214587018641993	2	Pseudomonas japonica
+0.027214587018641993	2	Shigella sp. SF-2015
+0.027214587018641993	2	marine actinobacterium
+0.027214587018641993	2	Gammaproteobacteria
+0.027214587018641993	2	Chroococcidiopsis thermalis
+0.027214587018641993	2	Acetobacter senegalensis
+0.027214587018641993	2	Pedobacter antarcticus
+0.027214587018641993	2	Prochlorococcus
+0.027214587018641993	2	Paracoccus sphaerophysae
+0.027214587018641993	2	Jeotgalicoccus psychrophilus
+0.027214587018641993	2	Bifidobacterium longum
+0.027214587018641993	2	Thioclava dalianensis
+0.027214587018641993	2	Xanthomonas oryzae
+0.027214587018641993	2	Paracoccus sp.
+0.027214587018641993	2	Fusicatenibacter saccharivorans
+0.013607293509320996	1	Peptoniphilus lacrimalis
+0.013607293509320996	1	Pseudomonas alcaligenes
+0.013607293509320996	1	Microbacterium aurum
+0.013607293509320996	1	Sphingomonas yabuuchiae
+0.013607293509320996	1	Brachybacterium nesterenkovii
+0.013607293509320996	1	Paraburkholderia phytofirmans
+0.013607293509320996	1	Neisseria polysaccharea
+0.013607293509320996	1	Staphylococcus xylosus
+0.013607293509320996	1	Chryseobacterium
+0.013607293509320996	1	Bradyrhizobium lablabi
+0.013607293509320996	1	Afipia sp.
+0.013607293509320996	1	Verminephrobacter eiseniae
+0.013607293509320996	1	Erwinia billingiae
+0.013607293509320996	1	Deinococcus radiodurans
+0.013607293509320996	1	Pseudoxanthobacter soli
+0.013607293509320996	1	Bradyrhizobium erythrophlei
+0.013607293509320996	1	Xenorhabdus
+0.013607293509320996	1	Micrococcus aloeverae
+0.013607293509320996	1	Citricoccus sp.
+0.013607293509320996	1	Corynebacterium capitovis
+0.013607293509320996	1	Achromobacter spanius
+0.013607293509320996	1	Actinomyces naeslundii
+0.013607293509320996	1	Kocuria rhizophila
+0.013607293509320996	1	Prevotella buccalis
+0.013607293509320996	1	Methylocapsa acidiphila
+0.013607293509320996	1	Ilumatobacter coccineus
+0.013607293509320996	1	Pseudoxanthomonas dokdonensis
+0.013607293509320996	1	Pseudomonas psychrophila
+0.013607293509320996	1	Nocardioides alkalitolerans
+0.013607293509320996	1	Williamsia sterculiae
+0.013607293509320996	1	Acinetobacter idrijaensis
+0.013607293509320996	1	Mycobacterium bacteremicum
+0.013607293509320996	1	Methylotenera sp.
+0.013607293509320996	1	Klebsiella michiganensis
+0.013607293509320996	1	Xanthomarina gelatinilytica
+0.013607293509320996	1	Brevibacterium
+0.013607293509320996	1	Micrococcus lylae
+0.013607293509320996	1	Atopobium vaginae
+0.013607293509320996	1	Shuttleworthia satelles
+0.013607293509320996	1	Flavobacterium haoranii
+0.013607293509320996	1	Catenulispora acidiphila
+0.013607293509320996	1	Microbacterium profundi
+0.013607293509320996	1	Arsenicicoccus sp.
+0.013607293509320996	1	Pannonibacter phragmitetus
+0.013607293509320996	1	Comamonas composti
+0.013607293509320996	1	Nocardia niwae
+0.013607293509320996	1	Delftia tsuruhatensis
+0.013607293509320996	1	Flavobacterium fontis
+0.013607293509320996	1	Pseudomonas chloritidismutans
+0.013607293509320996	1	Pseudonocardia sp.
+0.013607293509320996	1	Pseudomonas frederiksbergensis
+0.013607293509320996	1	Knoellia aerolata
+0.013607293509320996	1	Cupriavidus pinatubonensis
+0.013607293509320996	1	Bradyrhizobium japonicum
+0.013607293509320996	1	Sphingomonas panacis
+0.013607293509320996	1	Cupriavidus necator
+0.013607293509320996	1	Herbaspirillum frisingense
+0.013607293509320996	1	Thermus thermophilus
+0.013607293509320996	1	Streptococcus gordonii
+0.013607293509320996	1	Stenotrophomonas panacihumi
+0.013607293509320996	1	Pseudacidovorax intermedius
+0.013607293509320996	1	Burkholderia cenocepacia
+0.013607293509320996	1	Actinoplanes sp.
+0.013607293509320996	1	Porphyromonas gingivalis
+0.013607293509320996	1	Paraburkholderia xenovorans
+0.013607293509320996	1	Methylocystis bryophila
+0.013607293509320996	1	Paraburkholderia phymatum
+0.013607293509320996	1	Agreia
+0.013607293509320996	1	Vibrio parahaemolyticus
+0.013607293509320996	1	Hafnia alvei
+0.013607293509320996	1	Listeria weihenstephanensis
+0.013607293509320996	1	Corynebacterium xerosis
+0.013607293509320996	1	Mesorhizobium
+0.013607293509320996	1	Sphingopyxis sp.
+0.013607293509320996	1	Rhodoferax saidenbachensis
+0.013607293509320996	1	Janibacter terrae
+0.013607293509320996	1	Rothia dentocariosa
+0.013607293509320996	1	Pirellula staleyi
+0.013607293509320996	1	Rhizobium leucaenae
+0.013607293509320996	1	Streptomyces xylophagus
+0.013607293509320996	1	Morganella psychrotolerans
+0.013607293509320996	1	Neisseria gonorrhoeae
+0.013607293509320996	1	Citrobacter amalonaticus
+0.013607293509320996	1	Nitrosomonas communis
+0.013607293509320996	1	Leifsonia aquatica
+0.013607293509320996	1	Pantoea
+0.013607293509320996	1	Comamonas thiooxydans
+0.013607293509320996	1	Haloferula sp.
+0.013607293509320996	1	Massilia sp.
+0.013607293509320996	1	Desulfocarbo indianensis
+0.013607293509320996	1	Sphingomonas adhaesiva
+0.013607293509320996	1	Pseudomonas costantinii
+0.013607293509320996	1	Nocardiopsis
+0.013607293509320996	1	Neisseria
+0.013607293509320996	1	Leuconostoc carnosum
+0.013607293509320996	1	Xanthobacter sp.
+0.013607293509320996	1	Mycobacterium mucogenicum
+0.013607293509320996	1	Pelomonas sp. Root1444
+0.013607293509320996	1	Azonexus hydrophilus
+0.013607293509320996	1	Yersinia kristensenii
+0.013607293509320996	1	Hafnia paralvei
+0.013607293509320996	1	Psychrobacter sp.
+0.013607293509320996	1	Paenibacillus
+0.013607293509320996	1	Aeromonas dhakensis
+0.013607293509320996	1	Chryseobacterium arthrosphaerae
+0.013607293509320996	1	Pantoea conspicua
+0.013607293509320996	1	Streptomyces
+0.013607293509320996	1	Afipia clevelandensis
+0.013607293509320996	1	Thauera chlorobenzoica
+0.013607293509320996	1	Pseudomonas toyotomiensis
+0.013607293509320996	1	Pseudomonas flexibilis
+0.013607293509320996	1	Xanthomonas
+0.013607293509320996	1	Corynebacterium genitalium
+0.013607293509320996	1	Methylomonas methanica
+0.013607293509320996	1	Ochrobactrum sp.
+0.013607293509320996	1	Pseudoalteromonas luteoviolacea
+0.013607293509320996	1	Verrucosispora maris
+0.013607293509320996	1	Streptococcus salivarius
+0.013607293509320996	1	Dietzia timorensis
+0.013607293509320996	1	Marmoricola aequoreus
+0.013607293509320996	1	Reinekea blandensis
+0.013607293509320996	1	Streptococcus dysgalactiae
+0.013607293509320996	1	Nitratireductor soli
+0.013607293509320996	1	Ralstonia mannitolilytica
+0.013607293509320996	1	Corynebacterium urinapleomorphum
+0.013607293509320996	1	Acinetobacter junii
+0.013607293509320996	1	Pseudomonas mosselii
+0.013607293509320996	1	Sphaerotilus natans
+0.013607293509320996	1	Curtobacterium ammoniigenes
+0.013607293509320996	1	Pseudomonas extremorientalis
+0.013607293509320996	1	Marinobacter sp.
+0.013607293509320996	1	Acidovorax avenae
+0.013607293509320996	1	Microtetraspora glauca
+0.013607293509320996	1	Pantoea dispersa
+0.013607293509320996	1	Flexibacter sp. ATCC 35208
+0.013607293509320996	1	Granulicoccus phenolivorans
+0.013607293509320996	1	Ideonella sakaiensis
+0.013607293509320996	1	Burkholderia ubonensis
+0.013607293509320996	1	Staphylococcus arlettae
+0.013607293509320996	1	Edaphobacter aggregans
+0.013607293509320996	1	Klebsiella quasipneumoniae
+0.013607293509320996	1	Staphylococcus equorum
+0.013607293509320996	1	Rhizobiales bacterium
+0.013607293509320996	1	Pseudomonas trivialis
+0.013607293509320996	1	Arcobacter butzleri
+0.013607293509320996	1	Streptomyces scabiei
+0.013607293509320996	1	Mitsuaria chitosanitabida
+0.013607293509320996	1	Massilia timonae
+0.013607293509320996	1	Rhizobiales
+0.013607293509320996	1	Propionibacterium
+0.013607293509320996	1	Polaromonas naphthalenivorans
+0.013607293509320996	1	Geodermatophilus sp.
+0.013607293509320996	1	Hyalangium minutum
+0.013607293509320996	1	Campylobacter jejuni
+0.013607293509320996	1	Afipia broomeae
+0.013607293509320996	1	Streptomyces hyaluromycini
+0.013607293509320996	1	Ochrobactrum rhizosphaerae
+0.013607293509320996	1	Granulicella tundricola
+0.013607293509320996	1	Mesorhizobium erdmanii
+0.013607293509320996	1	Amycolatopsis taiwanensis
+0.013607293509320996	1	Anabaena sp.
+0.013607293509320996	1	Comamonas aquatica
+0.013607293509320996	1	Jeotgalicoccus marinus
+0.013607293509320996	1	Citrobacter youngae
+0.013607293509320996	1	Actinophytocola xinjiangensis
+0.013607293509320996	1	Pantoea sp.
+0.013607293509320996	1	Cellulomonas cellasea
+0.013607293509320996	1	Lysobacter dokdonensis
+0.013607293509320996	1	Corynebacterium mustelae
+0.013607293509320996	1	Rubritalea marina
+0.013607293509320996	1	Olivibacter sitiensis
+0.013607293509320996	1	Rhodococcus hoagii
+0.013607293509320996	1	Xenorhabdus khoisanae
+0.013607293509320996	1	Dermacoccus sp.
+0.013607293509320996	1	Porphyrobacter tepidarius
+0.013607293509320996	1	Aureimonas ureilytica
+0.013607293509320996	1	Lysobacter capsici
+0.013607293509320996	1	Faecalibacterium prausnitzii
+0.013607293509320996	1	Sphingomonas asaccharolytica
+0.013607293509320996	1	Streptomyces griseus
+0.013607293509320996	1	Chryseobacterium takakiae
+0.013607293509320996	1	Jiangella alba
+0.013607293509320996	1	Prevotella intermedia
+0.013607293509320996	1	Pandoraea
+0.013607293509320996	1	Blastococcus saxobsidens
+0.013607293509320996	1	Thermus scotoductus
+0.013607293509320996	1	Klebsiella variicola
+0.013607293509320996	1	Janthinobacterium sp.
+0.013607293509320996	1	Caulobacteraceae bacterium
+0.013607293509320996	1	Acidipropionibacterium jensenii
+0.013607293509320996	1	Microbacterium hydrocarbonoxydans
+0.013607293509320996	1	Luteimonas mephitis
+0.013607293509320996	1	Thauera sp.
+0.013607293509320996	1	Methyloversatilis sp.
+0.013607293509320996	1	Pseudomonas monteilii
+0.013607293509320996	1	Brucella melitensis
+0.013607293509320996	1	Vibrio sp.
+0.013607293509320996	1	Xanthomonas retroflexus
+0.013607293509320996	1	Sphingomonas astaxanthinifaciens
+0.013607293509320996	1	Chryseobacterium hispalense
+0.013607293509320996	1	Prevotella bergensis
+0.013607293509320996	1	Pseudomonas citronellolis
+0.013607293509320996	1	Gordonia otitidis
+0.013607293509320996	1	Janibacter anophelis
+0.013607293509320996	1	Staphylococcus schleiferi
+0.013607293509320996	1	Mesorhizobium opportunistum
+0.013607293509320996	1	Paenibacillus amylolyticus
+0.013607293509320996	1	Alcaligenaceae
+0.013607293509320996	1	Xanthomonas translucens
+0.013607293509320996	1	Photobacterium galatheae
+0.013607293509320996	1	Acidovorax citrulli
+0.013607293509320996	1	Paracoccus yeei
+0.013607293509320996	1	Streptomyces natalensis
+0.013607293509320996	1	Providencia rettgeri
+0.013607293509320996	1	Veillonella montpellierensis
+0.013607293509320996	1	Corynebacterium striatum
+0.013607293509320996	1	Paracoccus marcusii
+0.013607293509320996	1	Sphingomonas melonis
+0.013607293509320996	1	Rubrivivax benzoatilyticus
+0.013607293509320996	1	Rubrivivax gelatinosus
+0.013607293509320996	1	Thauera terpenica
+0.013607293509320996	1	Hamadaea tsunoensis
+0.013607293509320996	1	Mycobacterium chlorophenolicum
+0.013607293509320996	1	Acinetobacter johnsonii
+0.013607293509320996	1	Veillonella parvula
+0.013607293509320996	1	Rothia
+0.013607293509320996	1	Novosphingobium
+0.013607293509320996	1	Streptomyces purpurogeneiscleroticus
+0.013607293509320996	1	Pseudonocardia acaciae
+0.013607293509320996	1	Gulosibacter molinativorax
+0.013607293509320996	1	Ruania albidiflava
+0.013607293509320996	1	Kribbia dieselivorans
+0.013607293509320996	1	Tatumella citrea
+0.013607293509320996	1	Saccharothrix sp.
+0.013607293509320996	1	Agrobacterium arsenijevicii
+0.013607293509320996	1	Bordetella genomosp.
+0.013607293509320996	1	Burkholderiales bacterium
+0.013607293509320996	1	Candidatus Thiodiazotropha
+0.013607293509320996	1	Gilliamella apicola
+0.013607293509320996	1	Polymorphum gilvum
+0.013607293509320996	1	Cardiobacterium hominis
+0.013607293509320996	1	Cupriavidus oxalaticus
+0.013607293509320996	1	Massilia
+0.013607293509320996	1	Pseudomonas veronii
+0.013607293509320996	1	Deinococcus frigens
+0.013607293509320996	1	Gordonia araii
+0.013607293509320996	1	Acidovorax temperans
+0.013607293509320996	1	Actinomadura hibisca
+0.013607293509320996	1	Microbacterium paraoxydans
+0.013607293509320996	1	Brevundimonas
+0.013607293509320996	1	Caballeronia sordidicola
+0.013607293509320996	1	Polaromonas jejuensis
+0.013607293509320996	1	Yersinia frederiksenii
+0.013607293509320996	1	Shewanella sp.
+0.013607293509320996	1	Duganella sacchari
+0.013607293509320996	1	Janibacter sp.
+0.013607293509320996	1	Sphingobium
+0.013607293509320996	1	Gemella
+0.013607293509320996	1	Brachybacterium massiliense
+0.013607293509320996	1	Janibacter melonis
+0.013607293509320996	1	Curvibacter
+0.013607293509320996	1	Brevibacterium linens
+0.013607293509320996	1	Dietzia sp.
+0.013607293509320996	1	Altererythrobacter sp.
+0.013607293509320996	1	Chryseobacterium scophthalmum
+0.013607293509320996	1	Sphingomonas hengshuiensis
+0.013607293509320996	1	Gordonia lacunae
+0.013607293509320996	1	Jonesia denitrificans
+0.013607293509320996	1	Dechloromonas aromatica
+0.013607293509320996	1	Burkholderiaceae
+0.013607293509320996	1	Sphingomonas koreensis
+0.013607293509320996	1	Aquitalea pelogenes
+0.013607293509320996	1	Methylocaldum szegediense
+0.013607293509320996	1	Streptomyces olivochromogenes
+0.013607293509320996	1	Actinomyces liubingyangii
+0.013607293509320996	1	Devosia sp.
+0.013607293509320996	1	Veillonella sp.
+0.013607293509320996	1	Serratia marcescens
+0.013607293509320996	1	Mycobacterium abscessus
+0.013607293509320996	1	Enterobacter asburiae
+0.013607293509320996	1	alpha proteobacterium
+0.013607293509320996	1	Mycobacterium aurum
+0.013607293509320996	1	Sphingopyxis bauzanensis
+0.013607293509320996	1	Ornithinimicrobium sp.
+0.013607293509320996	1	Brachybacterium phenoliresistens
+0.013607293509320996	1	Archangium gephyra
+0.013607293509320996	1	Varibaculum cambriense
+0.013607293509320996	1	Enterobacter hormaechei
+0.013607293509320996	1	Mycobacterium neoaurum
+0.013607293509320996	1	Virgibacillus senegalensis
+0.013607293509320996	1	Pseudomonas parafulva
+0.013607293509320996	1	Crenothrix polyspora
+0.013607293509320996	1	Brevibacterium album
+0.013607293509320996	1	Desulfobacula sp.
+0.013607293509320996	1	Marinomonas ushuaiensis
+0.013607293509320996	1	Lactococcus lactis
+0.013607293509320996	1	Chryseobacterium haifense
+0.013607293509320996	1	Leuconostoc kimchii
+0.013607293509320996	1	Nocardia sp.
+0.013607293509320996	1	Sphingobium yanoikuyae
+0.013607293509320996	1	Sanguibacter sp.
+0.013607293509320996	1	Kocuria
+0.013607293509320996	1	Corynebacterium diphtheriae
+0.013607293509320996	1	Hahella chejuensis
+0.013607293509320996	1	Rhizobium leguminosarum
+0.013607293509320996	1	Bacteroides massiliensis
+0.013607293509320996	1	Terrimicrobium sacchariphilum
+0.013607293509320996	1	Paraburkholderia terrae
+0.013607293509320996	1	Peptoniphilus
+0.013607293509320996	1	Paracoccus
+0.013607293509320996	1	Enterococcus sp.
