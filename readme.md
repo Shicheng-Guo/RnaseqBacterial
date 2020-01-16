@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-
+* 01/16: check again is there any replications were set in this study? so that pca or mds can be done accurate
 * 01/16: nothing was mentioned by tRNA and rRNA deplete in the protocol from Thao and Jeniffer (thinking why?)
 * 01/15: at least another way to measure the ratio of bacteria to host genome size to compare with reads distribution.
 * 01/15: think about the time points of the sampling, early immnue response? or late immune response? 
