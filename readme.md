@@ -13,6 +13,9 @@ root:
 
 
 #### Timeline:
+
+* 01/15: at least another way to measure the ratio of bacteria to host genome size to compare with RNAseq reads distribution.
+* 01/15: think about the time points of the sampling, early immnue response? or late immune response? 
 * 01/11/2020, Just find CLARK have a new version and updated to [CLARKSCV1.2.6.1](http://clark.cs.ucr.edu/Tool/), in MCRI CHG1 server
 * 01/10/2020, USA300 protein annotation were collected and the most recent one is from [Uniprot:2,607 protein](extdata/uniprot-proteome_UP000001939.gff)
 * 01/09/2020, Let's check what's the difference between `USA300(CP000255.1)`, `MW2(BA000033.2)` and `CP019590.1`
