@@ -6,6 +6,8 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * transcriptome different between wound tissues and normal tissues (skin and immnune cells)
 * bacterial transcript nework and host transcript network correlation
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
+* make strain and function distribution analysis based on rRNA and check consistency with mRNA analysis
+* check the genes for the domaint spices for each patients ? whether it is toxicy genes? 
 
 root:
 
@@ -13,7 +15,7 @@ root:
 
 
 #### Timeline:
-* 01/17: make strain and function distribution analysis based on rRNA and check consistency with mRNA analysis
+* 01/17: 
 * 01/17: Now the [strain](extdata/manuscript/result/Metatranscriptomes_Strain_Analysis.pdf) an [function](extdata/manuscript/result/Metatranscriptomes_Function_Analysis.pdf) distribution of the RNA-seq reads come out after remove rRNA and adaptors
 * 01/17: Okay all the further analysis will be based on deep triming (-e 0.3) to the RNA-seq data to avoid adaptor aff-.
 * 01/17: Sanjay: The kit did not specifically remove plasmid DNA. As far rRNA removal is concerned ...
