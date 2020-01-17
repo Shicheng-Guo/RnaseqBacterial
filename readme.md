@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-* 01/17: make strain and function distribution analysis based on rRNA and check whether it is consistent with mRNA analysis
+* 01/17: make strain and function distribution analysis based on rRNA and check whether consistent with mRNA analysis
 * 01/17: Now the [strain](extdata/manuscript/result/Metatranscriptomes_Strain_Analysis.pdf) an [function](extdata/manuscript/result/Metatranscriptomes_Function_Analysis.pdf) distribution of the RNA-seq reads come out after remove rRNA and adaptors
 * 01/17: Okay all the further analysis will be based on deep triming (-e 0.3) to the RNA-seq data to avoid adaptor aff-.
 * 01/17: Sanjay: The kit did not specifically remove plasmid DNA. As far rRNA removal is concerned ...
