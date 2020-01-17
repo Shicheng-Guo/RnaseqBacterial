@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-* 01/17: Now the [strain]() an [function]() distribution of the RNA-seq reads/transcripts come out after remove rRNA and adaptors
+* 01/17: Now the [strain]() an [function]() distribution of the RNA-seq reads come out after remove rRNA and adaptors
 * 01/17: Okay all the further analysis will be based on deep triming (-e 0.3) to the RNA-seq data to avoid adaptor aff-.
 * 01/17: check [notrim](./extdata/rnaseqdata/notrimqc/) fastq and [slight](./extdata/rnaseqdata/slightrimdata/) trim fastq, you can find why 90% reads are adaptors
 * 01/16: [USA300 fasta]() and saved to `/FastQ_Screen_Genomes/MW2` and index with bowtie2
