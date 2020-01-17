@@ -17,7 +17,7 @@ root:
 * 01/17: Okay all the further analysis will be based on deep triming (-e 0.3) to the RNA-seq data to avoid adaptor aff-.
 * 01/17: Sanjay: The kit did not specifically remove plasmid DNA. As far rRNA removal is concerned ...
 * 01/17: Jennifer confirmed she performed a total DNA prep of the  samples Thao provided, no enrichment. 
-* 01/17: Jennifer shared [adaptor, index and primcers](./extdata/manuscript/Samples with indexes and adaptors.xlsx) information. Plasmid DNA was sequenced along with the total sample and the plan was to separate it bioinformatically.
+* 01/17: Jennifer shared [adaptor, index and primcers](./extdata/manuscript/Samples_with_indexes_and_adaptors.xlsx) information. Plasmid DNA was sequenced along with the total sample and the plan was to separate it bioinformatically.
 * 01/17: check [notrim](./extdata/rnaseqdata/notrimqc/) fastq and [slight](./extdata/rnaseqdata/slightrimdata/) trim fastq, you can find why 90% reads are adaptors and rRNA.
 * 01/16: [USA300 fasta]() and saved to `/FastQ_Screen_Genomes/MW2` and index with bowtie2
 * 01/16: [MW2 fasta](https://www.ncbi.nlm.nih.gov/nuccore/BA000033.2?report=fasta) save to `/FastQ_Screen_Genomes/USA300` and index with bowtie2 
