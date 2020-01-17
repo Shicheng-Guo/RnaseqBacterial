@@ -15,7 +15,7 @@ root:
 #### Timeline:
 * 01/17: Now the [strain](extdata/manuscript/result/Metatranscriptomes_Strain_Analysis.pdf) an [function](extdata/manuscript/result/Metatranscriptomes_Function_Analysis.pdf) distribution of the RNA-seq reads come out after remove rRNA and adaptors
 * 01/17: Okay all the further analysis will be based on deep triming (-e 0.3) to the RNA-seq data to avoid adaptor aff-.
-* 01/17: Sanjay: The kit did not specifically remove plasmid DNA. As far rRNA removal is concerned, are you talking about from the samples itself before sequencing or from sequencing read files? Sequencing is already done, so no from the samples.
+* 01/17: Sanjay: The kit did not specifically remove plasmid DNA. As far rRNA removal is concerned, are you talking about from the samples itself before sequencing? Sequencing is already done, so no from the samples.
 * 01/17: Jennifer: Thao will have to confirm that what she gave me was cDNA from total RNA. I performed a total DNA prep of the  samples she provided, no enrichment. Please see the attached file containing the adaptors and indexing of the samples. Let me know if you have questions about the file. Plasmid DNA was sequenced along with the total sample and the plan was to separate it bioinformatically.
 * 01/17: check [notrim](./extdata/rnaseqdata/notrimqc/) fastq and [slight](./extdata/rnaseqdata/slightrimdata/) trim fastq, you can find why 90% reads are adaptors and rRNA.
 * 01/16: [USA300 fasta]() and saved to `/FastQ_Screen_Genomes/MW2` and index with bowtie2
