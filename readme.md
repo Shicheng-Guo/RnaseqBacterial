@@ -13,7 +13,7 @@ root:
 
 
 #### Timeline:
-* 01/16: Fast filtering, mapping and OTU picking: https://bioinfo.lifl.fr/RNA/sortmerna/
+* 01/16: Fast filtering, mapping and OTU picking, rRNA removing: https://bioinfo.lifl.fr/RNA/sortmerna/
 * 01/16: result:`\\mcrfnas2\bigdata\Genetic\Projects\shg047\project\RnaseqBacterial\extdata\rnaseq\fastqscreen`
 * 01/16: Ryan told me the he cannot successully do what I want and so I only run it in BIRC7 which is quite slow
 * 01/16: A fast and robust protocol for metataxonomic analysis using RNAseq data: Microbiome. 2017; 5: 7.
