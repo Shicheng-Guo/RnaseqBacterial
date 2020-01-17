@@ -7,7 +7,7 @@ Sanjay introduced the research background and I proposed 3 analysis strategies a
 * bacterial transcript nework and host transcript network correlation
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
 * make strain and function distribution analysis based on rRNA and check consistency with mRNA analysis
-* check the genes for the domaint spices for each patients ? whether it is toxicy genes? 
+* check the genes for the domaint spices for each patients ? whether they are toxic genes? 
 
 root:
 
