@@ -2,7 +2,7 @@
 
 Shicheng Guo, Thao Le, Jennifer L Anderson, Sanjay Shukla, 2019
 
-Sanjay introduced the research background and I proposed 3 analysis strategies and aims (12/09/2019)
+Introduction to the research background and I proposed 3 analysis strategies and aims (12/09/2019)
 * transcriptome different between wound tissues and normal tissues (skin and immnune cells)
 * bacterial transcript nework and host transcript network correlation
 * deconvolute mix host transcript patterns to sigle-cell contribution. 
