@@ -1,0 +1,386 @@
+Aligning sequencing reads from files:
+        16_S3_L001_R1_001.fastq.gz
+        16_S3_L001_R2_001.fastq.gz
+Total reads:                    5593220
+Successfully aligned reads:     6035    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     36%
+        Aligning (antisense) to ribosomal RNAs: 63%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        17_S4_L001_R1_001.fastq.gz
+        17_S4_L001_R2_001.fastq.gz
+Total reads:                    6218473
+Successfully aligned reads:     1159    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     41%
+        Aligning (antisense) to ribosomal RNAs: 58%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        18_S1_L001_R1_001.fastq.gz
+        18_S1_L001_R2_001.fastq.gz
+Total reads:                    5627523
+Successfully aligned reads:     44134   1%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     41%
+        Aligning (antisense) to ribosomal RNAs: 59%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        19_S2_L001_R1_001.fastq.gz
+        19_S2_L001_R2_001.fastq.gz
+Total reads:                    6891449
+Successfully aligned reads:     14103   0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     40%
+        Aligning (antisense) to ribosomal RNAs: 60%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        21_S3_L001_R1_001.fastq.gz
+        21_S3_L001_R2_001.fastq.gz
+Total reads:                    5005369
+Successfully aligned reads:     768     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     45%
+        Aligning (antisense) to ribosomal RNAs: 54%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        23_S3_L001_R1_001.fastq.gz
+        23_S3_L001_R2_001.fastq.gz
+Total reads:                    4464533
+Successfully aligned reads:     37283   1%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       3%
+        Aligning (antisense) to protein-coding genes:   3%
+        Aligning (sense) to ribosomal RNAs:     46%
+        Aligning (antisense) to ribosomal RNAs: 47%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        24_S2_L001_R1_001.fastq.gz
+        24_S2_L001_R2_001.fastq.gz
+Total reads:                    5717924
+Successfully aligned reads:     81005   1%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       2%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     46%
+        Aligning (antisense) to ribosomal RNAs: 50%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        27_S1_L001_R1_001.fastq.gz
+        27_S1_L001_R2_001.fastq.gz
+Total reads:                    5166203
+Successfully aligned reads:     9886    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       4%
+        Aligning (antisense) to protein-coding genes:   4%
+        Aligning (sense) to ribosomal RNAs:     45%
+        Aligning (antisense) to ribosomal RNAs: 46%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        28_S4_L001_R1_001.fastq.gz
+        28_S4_L001_R2_001.fastq.gz
+Total reads:                    4819880
+Successfully aligned reads:     24304   1%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       2%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     46%
+        Aligning (antisense) to ribosomal RNAs: 49%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        30_S3_L001_R1_001.fastq.gz
+        30_S3_L001_R2_001.fastq.gz
+Total reads:                    5772604
+Successfully aligned reads:     428     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       1%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     45%
+        Aligning (antisense) to ribosomal RNAs: 51%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        34_S1_L001_R1_001.fastq.gz
+        34_S1_L001_R2_001.fastq.gz
+Total reads:                    5901013
+Successfully aligned reads:     376     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     40%
+        Aligning (antisense) to ribosomal RNAs: 59%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        35_S4_L001_R1_001.fastq.gz
+        35_S4_L001_R2_001.fastq.gz
+Total reads:                    6916963
+Successfully aligned reads:     177     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       2%
+        Aligning (antisense) to protein-coding genes:   3%
+        Aligning (sense) to ribosomal RNAs:     44%
+        Aligning (antisense) to ribosomal RNAs: 50%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        36_S1_L001_R1_001.fastq.gz
+        36_S1_L001_R2_001.fastq.gz
+Total reads:                    4772513
+Successfully aligned reads:     22553   0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       1%
+        Aligning (antisense) to protein-coding genes:   1%
+        Aligning (sense) to ribosomal RNAs:     33%
+        Aligning (antisense) to ribosomal RNAs: 64%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        38_S2_L001_R1_001.fastq.gz
+        38_S2_L001_R2_001.fastq.gz
+Total reads:                    5199286
+Successfully aligned reads:     2188    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       1%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     35%
+        Aligning (antisense) to ribosomal RNAs: 62%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        40_S2_L001_R1_001.fastq.gz
+        40_S2_L001_R2_001.fastq.gz
+Total reads:                    4169355
+Successfully aligned reads:     367     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       3%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     46%
+        Aligning (antisense) to ribosomal RNAs: 47%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        42_S3_L001_R1_001.fastq.gz
+        42_S3_L001_R2_001.fastq.gz
+Total reads:                    5386285
+Successfully aligned reads:     190     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       4%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     45%
+        Aligning (antisense) to ribosomal RNAs: 46%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                3%
+
+Aligning sequencing reads from files:
+        44_S3_L001_R1_001.fastq.gz
+        44_S3_L001_R2_001.fastq.gz
+Total reads:                    4969402
+Successfully aligned reads:     90      0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     38%
+        Aligning (antisense) to ribosomal RNAs: 59%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 1%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        45_S1_L001_R1_001.fastq.gz
+        45_S1_L001_R2_001.fastq.gz
+Total reads:                    5195516
+Successfully aligned reads:     4120    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     55%
+        Aligning (antisense) to ribosomal RNAs: 45%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        46_S4_L001_R1_001.fastq.gz
+        46_S4_L001_R2_001.fastq.gz
+Total reads:                    5198472
+Successfully aligned reads:     80      0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       1%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     42%
+        Aligning (antisense) to ribosomal RNAs: 54%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  1%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        47_S4_L001_R1_001.fastq.gz
+        47_S4_L001_R2_001.fastq.gz
+Total reads:                    7552320
+Successfully aligned reads:     3312    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       2%
+        Aligning (antisense) to protein-coding genes:   3%
+        Aligning (sense) to ribosomal RNAs:     38%
+        Aligning (antisense) to ribosomal RNAs: 56%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        51_S2_L001_R1_001.fastq.gz
+        51_S2_L001_R2_001.fastq.gz
+Total reads:                    3867530
+Successfully aligned reads:     64255   2%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       2%
+        Aligning (antisense) to protein-coding genes:   2%
+        Aligning (sense) to ribosomal RNAs:     32%
+        Aligning (antisense) to ribosomal RNAs: 63%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                1%
+
+Aligning sequencing reads from files:
+        54_S4_L001_R1_001.fastq.gz
+        54_S4_L001_R2_001.fastq.gz
+Total reads:                    6119372
+Successfully aligned reads:     1039    0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   1%
+        Aligning (sense) to ribosomal RNAs:     41%
+        Aligning (antisense) to ribosomal RNAs: 57%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        5_S1_L001_R1_001.fastq.gz
+        5_S1_L001_R2_001.fastq.gz
+Total reads:                    4983901
+Successfully aligned reads:     15392   0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   1%
+        Aligning (sense) to ribosomal RNAs:     38%
+        Aligning (antisense) to ribosomal RNAs: 61%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Aligning sequencing reads from files:
+        8_S2_L001_R1_001.fastq.gz
+        8_S2_L001_R2_001.fastq.gz
+Total reads:                    4881894
+Successfully aligned reads:     314     0%      (Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome)
+        Aligning (sense) to protein-coding genes:       0%
+        Aligning (antisense) to protein-coding genes:   0%
+        Aligning (sense) to ribosomal RNAs:     40%
+        Aligning (antisense) to ribosomal RNAs: 59%
+        Aligning (sense) to transfer RNAs:      0%
+        Aligning (antisense) to transfer RNAs:  0%
+        Aligning (sense) to miscellaneous RNAs: 0%
+        Aligning (antisense) to miscellaneous RNAs:     0%
+        Aligning to unannotated regions:                0%
+
+Analyzing transcripts...
+
+************************************************************
+Staphylococcus aureus subsp. aureus USA300_FPR3757 chromosome
+************************************************************
+
+Computing transcript boundaries...
+        Number of 5'UTRs:                       0
+        Number of 3'UTRs:                       0
+        Number of predicted RNAs:                       2013
+        Number of predicted RNAs (not antisense):               372
+        Number of predicted RNAs (antisense):           1641
+
+Computing differential gene expression...
+        Number of differentially expressed protein coding genes:        0
+
+Computing likely operons...
+        Number of gene-pairs predicted to be part of the same operon:   903
+        Number of predicted multi-gene operons:         478
+
+
+Summary of results written to file:     Rockhopper_Results/summary.txt
+Expression of transcripts written to file:      Rockhopper_Results/NC_007793_transcripts.txt
+Operons written to file:                Rockhopper_Results/NC_007793_operons.txt
+
+FINISHED.
