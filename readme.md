@@ -11,7 +11,7 @@ Introduction to the research background and I proposed 3 analysis strategies and
 
 root:
 
-~/hpc/project/RnaseqBacterial/extdata/rnaseq
+cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
