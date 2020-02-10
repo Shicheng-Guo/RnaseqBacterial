@@ -13,7 +13,6 @@ root:
 
 cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
-
 #### Timeline:
 
 * 02/09: important to install SortMeRNA: `wget https://github.com/biocore/sortmerna/archive/2.1.tar.gz`
