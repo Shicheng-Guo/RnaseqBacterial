@@ -15,7 +15,9 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
-* 02/09: mapping all reads to USA300 genes and found major reads are rRNA, see result [here](https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/USA300/Rockhopper.result.summary.txt)
+* 02/09: https://github.com/Shicheng-Guo/diamond/blob/master/README.md
+* 02/08: [Workflow for Microbiome Data Analysis: from raw reads to community analyses](https://bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html).
+* 02/08: mapping all reads to USA300 genes and found major reads are rRNA, see result [here](https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/USA300/Rockhopper.result.summary.txt)
 * 01/17: make strain and function distribution analysis based on rRNA and check consistency with mRNA analysis
 * 01/17: check the genes for the domaint spices for each patients ? whether they are toxic genes? 
 * 01/17: Now the [strain](extdata/manuscript/result/Metatranscriptomes_Strain_Analysis.pdf) an [function](extdata/manuscript/result/Metatranscriptomes_Function_Analysis.pdf) distribution of the RNA-seq reads come out after remove rRNA and adaptors
