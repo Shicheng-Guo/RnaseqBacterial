@@ -15,7 +15,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
-
+* 02/09: important: `pear-0.9.11-linux-x86_64.tar.gz` and `pear-src-0.9.11.tar.gz` can be download [here](./bin/)
 * 02/09: 67G`/home/guosa/hpc/db/nr.gz` and 126G`/home/guosa/hpc/db/nr.dmnd` could be found [here](/home/guosa/hpc/db/)
 * 02/09: A [repository](https://github.com/Shicheng-Guo/microbiome_helper) of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. 
 * 02/09: [SAMSA2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963165/): a standalone metatranscriptome analysis pipeline
