@@ -15,6 +15,8 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
+
+* 02/09: 67G`/home/guosa/hpc/db/nr.gz` and 126G`nr.dmnd` could be found [here](/home/guosa/hpc/db/)
 * 02/09: A [repository](https://github.com/Shicheng-Guo/microbiome_helper) of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. 
 * 02/09: [SAMSA2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963165/): a standalone metatranscriptome analysis pipeline
 * 02/09: DIAMOND is a sequence aligner for protein and translated [DNA searches](https://github.com/Shicheng-Guo/diamond/blob/master/README.md)
