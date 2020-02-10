@@ -14,7 +14,6 @@ root:
 cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 #### Timeline:
-* 02/10: `ilva-arc-16s-id95.fasta`, `silva-arc-23s-id98.fasta`, `silva-euk-18s-id95.fasta` and `rfam-5s-database-id98.fasta`
 * 02/09: `python ~/hpc/tools/samsa2/python_scripts/DIAMOND_analysis_counter.py -I 42_S3_L001 -D ~/hpc/db/nr -O`
 * 02/09: important to install SortMeRNA: `wget https://github.com/biocore/sortmerna/archive/2.1.tar.gz`
 * 02/09: important: `pear-0.9.11-linux-x86_64.tar.gz` and `pear-src-0.9.11.tar.gz` can be download [here](./bin/)
