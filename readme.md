@@ -18,6 +18,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 * 02/09: A [repository](https://github.com/Shicheng-Guo/microbiome_helper) of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. 
 * 02/09: [SAMSA2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963165/): a standalone metatranscriptome analysis pipeline
 * 02/09: DIAMOND is a sequence aligner for protein and translated [DNA searches](https://github.com/Shicheng-Guo/diamond/blob/master/README.md)
+* 02/08: 70G nr.faa + nr.gz: `wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz`
 * 02/08: RNA-seq workflow: gene-level exploratory analysis and differential [expression](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
 * 02/08: Workflow for Microbiome Data Analysis: from raw reads to community [analyses](https://bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html).
 * 02/08: mapping all reads to USA300 genes and found major reads are rRNA, see result [here](https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/USA300/Rockhopper.result.summary.txt)
