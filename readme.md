@@ -19,7 +19,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 * 02/09: important: `pear-0.9.11-linux-x86_64.tar.gz` and `pear-src-0.9.11.tar.gz` can be download [here](./bin/)
 * 02/09: 67G`/home/guosa/hpc/db/nr.gz` and 126G`/home/guosa/hpc/db/nr.dmnd` could be found [here](/home/guosa/hpc/db/)
 * 02/09: A [repository](https://github.com/Shicheng-Guo/microbiome_helper) of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. 
-* 02/09: [SAMSA2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963165/): a standalone metatranscriptome analysis pipeline
+* 02/09: [SAMSA2](https://transcript.github.io/samsa2/): a standalone metatranscriptome analysis pipeline
 * 02/09: DIAMOND is a sequence aligner for protein and translated [DNA searches](https://github.com/Shicheng-Guo/diamond/blob/master/README.md)
 * 02/08: 70G nr.faa + nr.gz, 2972.8s for indexing: `wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz`
 * 02/08: RNA-seq workflow: gene-level exploratory analysis and differential [expression](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
