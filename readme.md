@@ -15,6 +15,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
+* 02/09: A [repository](https://github.com/Shicheng-Guo/microbiome_helper) of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. 
 * 02/09: SAMSA2: a standalone metatranscriptome analysis [pipeline](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963165/)
 * 02/09: DIAMOND is a sequence aligner for protein and translated [DNA searches](https://github.com/Shicheng-Guo/diamond/blob/master/README.md)
 * 02/08: RNA-seq workflow: gene-level exploratory analysis and differential [expression](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
