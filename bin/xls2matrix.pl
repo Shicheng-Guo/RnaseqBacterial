@@ -1,10 +1,9 @@
 #!/usr/bin/perl -w
 
 # Merge bigWigAverageOverBed output to matrix (first column is region name and last column is average value)
-# # 4: MF; #6: total coverage>10
-# Contact: Shicheng Guo
+# Contact: Shicheng Guo; Shihcheng.Guo@Gmail.com
 # Version 1.3
-# Update: 2016-12-19
+# Update: 2020-02-10
 
 # Following R script to make boxplot to check the variation
 # mitometh<-read.table("C:\\Users\\shicheng\\Downloads\\CHR.Methylation.txt",head=T,row.names=1,as.is=T)
