@@ -13,6 +13,7 @@ root:
 
 cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
+
 #### Timeline:
 * 02/10: rRNAdeletionFunctionFreqHeatmap.pdf is functional annotation for the reads for each sample with heatmap
 * 02/10: rRNAdeletionStrainHeatmap.pdf is strain annotation for the reads for each sample with heatmap style
