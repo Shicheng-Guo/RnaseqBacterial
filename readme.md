@@ -14,13 +14,13 @@ root:
 cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 #### Timeline:
-* rRNAdeletionFunctionFreqHeatmap.pdf is functional annotation for the reads for each sample with heatmap style (Z-score rather than raw counts, please see txt or csv for raw number)
-* rRNAdeletionStrainHeatmap.pdf is strain annotation for the reads for each sample with heatmap style (Z-score rather than raw counts, please see txt or csv for raw number)
-* Metatranscriptomes_Function_Analysis.pdf is bar-plot to show functional annotation for each sample (raw data is showed in function.tab.matrix.counts.txt). 
-* Metatranscriptomes_Strain_Analysis.pdf is bar-plot to show strain annotation for each sample (raw data is showed in strain.tab.matrix.counts.txt). 
-* strain.tab.matrix.counts.txt and strain.tab.matrix.counts.csv are strain counts information for each sample, csv file is easy to read
-* strain.tab.matrix.freq.txt and strain.tab.matrix.freq.csv are strain frequency information for each sample, csv file is easy to read
-* function.tab.matrix.counts.txt and function.tab.matrix.freq.txt are functional annotation to reads for each sample, only txt is provided. 
+* 02/10: rRNAdeletionFunctionFreqHeatmap.pdf is functional annotation for the reads for each sample with heatmap style
+* 02/10: rRNAdeletionStrainHeatmap.pdf is strain annotation for the reads for each sample with heatmap style
+* 02/10: Metatranscriptomes_Function_Analysis.pdf is bar-plot to show functional annotation for each sample 
+* 02/10: Metatranscriptomes_Strain_Analysis.pdf is bar-plot to show strain annotation for each sample 
+* 02/10: strain.tab.matrix.counts.txt and strain.tab.matrix.counts.csv are strain counts information for each sample
+* 02/10: strain.tab.matrix.freq.txt and strain.tab.matrix.freq.csv are strain frequency information for each sample
+* 02/10: function.tab.matrix.counts.txt and function.tab.matrix.freq.txt are functional annotation to reads for each sample 
 * 02/09: `python ~/hpc/tools/samsa2/python_scripts/DIAMOND_analysis_counter.py -I 42_S3_L001 -D ~/hpc/db/nr -O`
 * 02/09: important to install SortMeRNA: `wget https://github.com/biocore/sortmerna/archive/2.1.tar.gz`
 * 02/09: important: `pear-0.9.11-linux-x86_64.tar.gz` and `pear-src-0.9.11.tar.gz` can be download [here](./bin/)
