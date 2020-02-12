@@ -18,6 +18,6 @@ SID	FID	DID	CID	Gender	Age	ST	Severity	Staph_Aureus	Total_reads	mecA_PCR	spa_typ
 42	MRSA 042	 SA 042	Madison	M	44	Swab	severe	Positive	5386289	Negative	t008	CC 008	N
 44	MRSA 044	 SA 044	Madison	M	52	Swab	mild	Positive	4969392	Positive	t008	CC 008	N
 46	MRSA 046	 SA 046	Madison	M	36	Swab	mild	Positive	5198465	Positive	t008	CC 008	N
-47	MRSA 047	 SA 047	Madison	M	39	Swab		Positive	7552309	Positive	t024	CC 008	N
+47	MRSA 047	 SA 047	Madison	M	39	Swab  mild  Positive	7552309	Positive	t024	CC 008	N
 51	MRSA 051	 SA 051	Madison	M	21	Pus	mild	Positive	6916964	Positive	t008	CC 008	N
-54	MRSA 054	 SA 054	Madison	F	25	Swab		Positive	6119380	Positive	t7712	CC 008	N
+54	MRSA 054	 SA 054	Madison	F	25	Swab  mild  Positive	6119380	Positive	t7712	CC 008	N
