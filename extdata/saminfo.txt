@@ -1,0 +1,54 @@
+SID	FID	DID	CID	Gender	Age	ST	Severity	Staph_Aureus	MALDI 	Total_reads	mecA_PCR	spa_type	Spa_clonal_complex	RT-PCR_performed
+1	MRSA 001	 SA 001	Marshfield Clinic	M	66	Swab	severe	Negative						Y
+2	MRSA 002	 SA 002	Marshfield Clinic	M	22	Swab	mild	Positive			Negative	t159	singleton	Y
+3	MRSA 003	 SA 003	Marshfield Clinic	M	22	Swab	severe	Positive			Positive	t723	singleton	Y
+4	MRSA 004	 SA 004	Marshfield Clinic	F	36	Swab	mild	Negative						Y
+5	MRSA 005	 SA 005	Marshfield Clinic	M	71	Swab	severe	Positive		4983899	Positive	t008	CC 008	Y
+6	MRSA 006	 SA 006	Marshfield Clinic	M	65	Swab	severe	Negative	Staph lugdunensis					N
+7	MRSA 007	 SA 007	Marshfield Clinic	F	22	Swab	severe	Positive			Positive	t216	singleton	Y
+8	MRSA 008	 SA 008	Marshfield Clinic	F	36	Swab	severe	Negative	Staph capitis	4881901				N
+9	MRSA 009	 SA 009	Marshfield Clinic	M	54	Swab	severe	Negative	Staph epidermidis					N
+10	MRSA 010	 SA 010	Marshfield Clinic	F	54	Swab	mild	Negative						N
+11	MRSA 011	 SA 011	Marshfield Clinic	F	68	Swab	mild	Negative	Staph capitis					N
+12	MRSA 012	 SA 012	Marshfield Clinic	F	76	Swab	mild	Positive			Negative	t078	singleton	Y
+13	MRSA 013	 SA 013	Marshfield Clinic	M	32	Swab	severe	Negative	Staph caprae					N
+14	MRSA 014	 SA 014	Marshfield Clinic	F	69	Swab	severe	Negative	Citrobacter braakii					N
+15	MRSA 015	 SA 015	Marshfield Clinic	M	53	Swab	mild	Negative	Staph epidermidis					N
+16	MRSA 016	 SA 016	Marshfield Clinic	F	61	Swab	mild	Positive		5593232	Positive	t008	CC 008	Y
+17	MRSA 017	 SA 017	Marshfield Clinic	M	54	Swab	mild	Positive		6218463	Positive	t008	CC 008	Y
+18	MRSA 018	 SA 018	Marshfield Clinic	M	54	Swab	severe	Positive		5627528	Positive	t008	CC 008	N
+19	MRSA 019	 SA 019	Marshfield Clinic	M	69	Swab	severe	Positive		6891438	Positive	t008	CC 008	N
+20	MRSA 020	 SA 020	Madison			Swab		Negative	Staph hominis					N
+21	MRSA 021	 SA 021	Madison	F	62	Swab	mild	Positive		5005377	Positive	t008	CC 008	N
+22	MRSA 022	 SA 022	Madison			Swab		Negative						N
+23	MRSA 023	 SA 023	Madison	F	22	Pus	mild	Positive		4464539	Positive	t008	CC 008	N
+24	MRSA 024	 SA 024	Madison	M	62	Pus	mild	Positive		5717927	Positive	t008	CC 008	N
+25	MRSA 025	 SA 025	Madison			Pus		Negative						N
+26	MRSA 026	 SA 026	Madison	M	26	Swab	moderate	Positive			Negative	t008	CC 008	Y
+27	MRSA 027	 SA 027	Madison	F	46	Pus	moderate	Positive		5166194	Positive	t008	CC 008	N
+28	MRSA 028	 SA 028	Madison	F	61	Pus	mild	Positive		4819870	Negative	t1578	CC 008	N
+29	MRSA 029	 SA 029	Madison			Swab		Negative						N
+30	MRSA 030	 SA 030	Madison	M	19	Swab	mild	Positive		3867530	Negative	t008	CC 008	N
+31	MRSA 031	 SA 031	Madison			Swab		Negative						N
+32	MRSA 032	 SA 032	Madison			Swab		Negative						N
+33	MRSA 033	 SA 033	Madison			Swab		Negative						N
+34	MRSA 034	 SA 034	Madison	F	33	Swab	mild	Positive		5901019	Positive	t4045	singleton	N
+35	MRSA 035	 SA 035	Madison	F	61	Swab	mild	Positive		5772598	Positive	t008	CC 008	N
+36	MRSA 036	 SA 036	Madison	F	43	Pus	mild	Positive		4772507	Positive	t068	CC 008	N
+37	MRSA 037	 SA 037	Madison			Pus		Negative						N
+38	MRSA 038	 SA 038	Madison	M	34	Swab	mild	Positive		5199277	Negative	t002	singleton	N
+39	MRSA 039	 SA 039	Madison			Swab		Negative						N
+40	MRSA 040	 SA 040	Madison	F	20	Swab	mild	Positive		4169364	Positive	t008	CC 008	N
+41	MRSA 041	 SA 041	Madison			Pus		Negative						N
+42	MRSA 042	 SA 042	Madison	M	44	Swab	severe	Positive		5386289	Negative	t008	CC 008	N
+43	MRSA 043	 SA 043	Madison			Pus		Negative						N
+44	MRSA 044	 SA 044	Madison	M	52	Swab	mild	Positive		4969392	Positive	t008	CC 008	N
+45	MRSA 045	 SA 045	Madison	F	37	Pus	mild	Positive		5195512	Negative	no amp		N
+46	MRSA 046	 SA 046	Madison	M	36	Swab	mild	Positive		5198465	Positive	t008	CC 008	N
+47	MRSA 047	 SA 047	Madison	M	39	Swab		Positive		7552309	Positive	t024	CC 008	N
+48	MRSA 048	 SA 048	Madison	M	31	Pus	severe	Positive			Negative	t024	CC 008	N
+49	MRSA 049	 SA 049	Madison	M	45	Swab	mild	Positive			Negative	no amp		N
+50	MRSA 050	 SA 050	Madison			Swab		Negative						N
+51	MRSA 051	 SA 051	Madison	M	21	Pus	mild	Positive		6916964	Positive	t008	CC 008	N
+53	MRSA 053	 SA 053	Madison			Swab		Negative						N
+54	MRSA 054	 SA 054	Madison	F	25	Swab		Positive		6119380	Positive	t7712	CC 008	N
