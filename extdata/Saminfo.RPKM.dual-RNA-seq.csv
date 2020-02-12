@@ -1,0 +1,23 @@
+,CID,Gender,Age,ST,Severity,spa_type
+1,Marshfield Clinic,M,71,Swab,severe,t008
+2,Marshfield Clinic,F,61,Swab,mild,t008
+3,Marshfield Clinic,M,54,Swab,mild,t008
+4,Marshfield Clinic,M,54,Swab,severe,t008
+5,Marshfield Clinic,M,69,Swab,severe,t008
+6,Madison,F,62,Swab,mild,t008
+7,Madison,F,22,Pus,mild,t008
+8,Madison,M,62,Pus,mild,t008
+9,Madison,F,46,Pus,moderate,t008
+10,Madison,F,61,Pus,mild,t1578
+11,Madison,M,19,Swab,mild,t008
+12,Madison,F,33,Swab,mild,t4045
+13,Madison,F,61,Swab,mild,t008
+14,Madison,F,43,Pus,mild,t068
+15,Madison,M,34,Swab,mild,t002
+16,Madison,F,20,Swab,mild,t008
+17,Madison,M,44,Swab,severe,t008
+18,Madison,M,52,Swab,mild,t008
+19,Madison,M,36,Swab,mild,t008
+20,Madison,M,39,Swab,mild,t024
+21,Madison,M,21,Pus,mild,t008
+22,Madison,F,25,Swab,mild,t7712
