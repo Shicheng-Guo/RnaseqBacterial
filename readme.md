@@ -15,7 +15,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
-* 02/12: Staphylococcus aureus subsp. aureus NCTC 8325: GFF: https://www.ncbi.nlm.nih.gov/genome/proteins/154?genome_assembly_id=299272
+* 02/12: Staphylococcus aureus: GFF: https://www.ncbi.nlm.nih.gov/genome/proteins/154?genome_assembly_id=299272
 * 02/11: NC_007793.gff file should be updated since lots of genes don't have name, we can give name for them
 * 02/11: For example, `SAUSA300_0020:DNA-binding response regulator` don't have name and we can name it as `dbrR`
 * 02/11: For example`SAUSA300_0044:metallo-beta-lactamase family protein` don't have name as `mblfP`
