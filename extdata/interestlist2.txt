@@ -4,7 +4,7 @@ fnbA
 clfB
 fnbB
 hlgB
-hlgd
+hld
 clfA
 ear
 hlgC
@@ -16,7 +16,7 @@ hlgB
 sdrD
 lukE
 sdrE
-spa
+sspA
 hlgA
-lpl10
+lpl3
 sek
