@@ -1,23 +1,23 @@
-SID,FID,DID,CID,Gender,Age,ST,Severity,Staph_Aureus,Total_reads,mecA_PCR,spa_type,Spa_clonal_complex,RT.PCR_performed
-5,MRSA 005, SA 005,Marshfield Clinic,M,71,Swab,severe,Positive,4983899,Positive,t008,CC 008,Y
-16,MRSA 016, SA 016,Marshfield Clinic,F,61,Swab,mild,Positive,5593232,Positive,t008,CC 008,Y
-17,MRSA 017, SA 017,Marshfield Clinic,M,54,Swab,mild,Positive,6218463,Positive,t008,CC 008,Y
-18,MRSA 018, SA 018,Marshfield Clinic,M,54,Swab,severe,Positive,5627528,Positive,t008,CC 008,N
-19,MRSA 019, SA 019,Marshfield Clinic,M,69,Swab,severe,Positive,6891438,Positive,t008,CC 008,N
-21,MRSA 021, SA 021,Madison,F,62,Swab,mild,Positive,5005377,Positive,t008,CC 008,N
-23,MRSA 023, SA 023,Madison,F,22,Pus,mild,Positive,4464539,Positive,t008,CC 008,N
-24,MRSA 024, SA 024,Madison,M,62,Pus,mild,Positive,5717927,Positive,t008,CC 008,N
-27,MRSA 027, SA 027,Madison,F,46,Pus,moderate,Positive,5166194,Positive,t008,CC 008,N
-28,MRSA 028, SA 028,Madison,F,61,Pus,mild,Positive,4819870,Negative,t1578,CC 008,N
-30,MRSA 030, SA 030,Madison,M,19,Swab,mild,Positive,3867530,Negative,t008,CC 008,N
-34,MRSA 034, SA 034,Madison,F,33,Swab,mild,Positive,5901019,Positive,t4045,singleton,N
-35,MRSA 035, SA 035,Madison,F,61,Swab,mild,Positive,5772598,Positive,t008,CC 008,N
-36,MRSA 036, SA 036,Madison,F,43,Pus,mild,Positive,4772507,Positive,t068,CC 008,N
-38,MRSA 038, SA 038,Madison,M,34,Swab,mild,Positive,5199277,Negative,t002,singleton,N
-40,MRSA 040, SA 040,Madison,F,20,Swab,mild,Positive,4169364,Positive,t008,CC 008,N
-42,MRSA 042, SA 042,Madison,M,44,Swab,severe,Positive,5386289,Negative,t008,CC 008,N
-44,MRSA 044, SA 044,Madison,M,52,Swab,mild,Positive,4969392,Positive,t008,CC 008,N
-46,MRSA 046, SA 046,Madison,M,36,Swab,mild,Positive,5198465,Positive,t008,CC 008,N
-47,MRSA 047, SA 047,Madison,M,39,Swab,mild,Positive,7552309,Positive,t024,CC 008,N
-51,MRSA 051, SA 051,Madison,M,21,Pus,mild,Positive,6916964,Positive,t008,CC 008,N
-54,MRSA 054, SA 054,Madison,F,25,Swab,mild,Positive,6119380,Positive,t7712,CC 008,N
+SID,FID,DID,CID,Gender,Age,ST,Severity,Staph_Aureus,Total_reads,mecA_PCR,spa_type
+5,MRSA 005,SA 005,Marshfield Clinic,M,71,Swab,severe,Positive,4983899,Positive,t008
+16,MRSA 016,SA 016,Marshfield Clinic,F,61,Swab,mild,Positive,5593232,Positive,t008
+17,MRSA 017,SA 017,Marshfield Clinic,M,54,Swab,mild,Positive,6218463,Positive,t008
+18,MRSA 018,SA 018,Marshfield Clinic,M,54,Swab,severe,Positive,5627528,Positive,t008
+19,MRSA 019,SA 019,Marshfield Clinic,M,69,Swab,severe,Positive,6891438,Positive,t008
+21,MRSA 021,SA 021,Madison,F,62,Swab,mild,Positive,5005377,Positive,t008
+23,MRSA 023,SA 023,Madison,F,22,Pus,mild,Positive,4464539,Positive,t008
+24,MRSA 024,SA 024,Madison,M,62,Pus,mild,Positive,5717927,Positive,t008
+27,MRSA 027,SA 027,Madison,F,46,Pus,severe,Positive,5166194,Positive,t008
+28,MRSA 028,SA 028,Madison,F,61,Pus,mild,Positive,4819870,Negative,nont008
+30,MRSA 030,SA 030,Madison,M,19,Swab,mild,Positive,3867530,Negative,t008
+34,MRSA 034,SA 034,Madison,F,33,Swab,mild,Positive,5901019,Positive,nont008
+35,MRSA 035,SA 035,Madison,F,61,Swab,mild,Positive,5772598,Positive,t008
+36,MRSA 036,SA 036,Madison,F,43,Pus,mild,Positive,4772507,Positive,t068
+38,MRSA 038,SA 038,Madison,M,34,Swab,mild,Positive,5199277,Negative,nont008
+40,MRSA 040,SA 040,Madison,F,20,Swab,mild,Positive,4169364,Positive,t008
+42,MRSA 042,SA 042,Madison,M,44,Swab,severe,Positive,5386289,Negative,t008
+44,MRSA 044,SA 044,Madison,M,52,Swab,mild,Positive,4969392,Positive,t008
+46,MRSA 046,SA 046,Madison,M,36,Swab,mild,Positive,5198465,Positive,t008
+47,MRSA 047,SA 047,Madison,M,39,Swab,mild,Positive,7552309,Positive,nont008
+51,MRSA 051,SA 051,Madison,M,21,Pus,mild,Positive,6916964,Positive,t008
+54,MRSA 054,SA 054,Madison,F,25,Swab,mild,Positive,6119380,Positive,nont008
