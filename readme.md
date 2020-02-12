@@ -17,7 +17,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 #### Timeline:
 * 02/11: NC_007793.gff file should be updated since lots of genes don't have name, we can give name for them
 * 02/11: For example, `SAUSA300_0020:DNA-binding response regulator` don't have name and we can name it as `dbrR`
-* 02/11: For example, `SAUSA300_0044:metallo-beta-lactamase family protein` don't have name and we can name it as `mblfP`q
+* 02/11: For exam...`SAUSA300_0044:metallo-beta-lactamase family protein` don't have name and we can name it as `mblfP`q
 * 02/10: rRNAdeletionFunctionFreqHeatmap.pdf is functional annotation for the reads for each sample with heatmap
 * 02/10: rRNAdeletionStrainHeatmap.pdf is strain annotation for the reads for each sample with heatmap style
 * 02/10: Metatranscriptomes_Function_Analysis.pdf is bar-plot to show functional annotation for each sample
