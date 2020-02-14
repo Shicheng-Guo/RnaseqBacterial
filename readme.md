@@ -15,6 +15,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
+* 02/13: This should be feasible, although keep in mind that the results would only really be useful for organism identification (since there's not going to be any functional information derived from the 16S sequences). It also may require a different reference, since it would be better to annotate against GreenGenes or SILVA instead of just RefSeq overall...
 * 02/12: Staph aureus: GFF: https://www.ncbi.nlm.nih.gov/genome/proteins/154?genome_assembly_id=299272
 * 02/11: NC_007793.gff file should be updated since lots of genes don't have name, we can give name for them
 * 02/11: For example, `SAUSA300_0020:DNA-binding response regulator` don't have name and we can name it as `dbrR`
