@@ -16,7 +16,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 #### Timeline:
 * 02/18/2020: `conda install -c bioconda metaphlan2`
-* 02/18/2020: MetaPhlAn2 is a tool for profiling the composition of microbial communities from metagenomic sequencing data.
+* 02/18: MetaPhlAn2 is a tool for profiling the composition of microbial communities from metagenomic sequencing data.
 * 02/14: One issue with including the 16S rRNA is that it is only able to provide a limited resolution for metagenome organism identification. With this pipeline, the goal is to identify down to genus and/or species level resolution, which is where 16S rRNA struggles. Another challenge is that, if an individual is doing metatranscriptome research, they're likely going to run a depletion step in their wet-lab protocol. rRNA depletions don't equally target all 16S sequences, and so the 16S results will be skewed by that step. For this reason, the SortMeRNA step removes rRNA sequences by default. You are always free to customize the pipeline to leave it out and include rRNA results, if you prefer, but it is unlikely to provide additional information when it comes to the metatranscriptome activity profiles.
 * 02/13: This should be feasible, although keep in mind that the results would only really be useful for organism identification (since there's not going to be any functional information derived from the 16S sequences). It also may require a different reference, since it would be better to annotate against GreenGenes or SILVA instead of just RefSeq
 * 02/12: Staph aureus: GFF: https://www.ncbi.nlm.nih.gov/genome/proteins/154?genome_assembly_id=299272
