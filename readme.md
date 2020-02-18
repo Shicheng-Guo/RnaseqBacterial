@@ -15,7 +15,6 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
-* 02/18: DIR="/gpfs/home/guosa/hpc/tools/HUMAnN2" 
 * 02/18: DIR="/gpfs/home/guosa/hpc/tools/HUMAnN2"
 * 02/18: humann2_databases --download chocophlan full $DIR
 * 02/18: humann2_databases --download uniref uniref90_diamond $DIR
