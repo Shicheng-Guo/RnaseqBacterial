@@ -16,8 +16,10 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 #### Timeline:
 * 02/18: DIR="/gpfs/home/guosa/hpc/tools/HUMAnN2" 
+* 02/18: DIR="/gpfs/home/guosa/hpc/tools/HUMAnN2"
 * 02/18: humann2_databases --download chocophlan full $DIR
 * 02/18: humann2_databases --download uniref uniref90_diamond $DIR
+* 02/18: humann2_databases --download utility_mapping full $DIR
 * 02/18: 13 million reads(~7 GB fastq), 1 core, 6G memeory with UniRef50 EC filtered database  =4 hours 
 * 02/18: 13 million reads(~7 GB fastq), 1 core, 11G memeory with UniRef50 full database         =25 hours 
 * 02/18: `uniref90_annotated.1.1.dmnd` 11G file size to be downloaed with 20 mins. 
