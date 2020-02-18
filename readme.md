@@ -15,6 +15,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
+* 02/18: Batut, B., K. Gravouil, C. Defois, S. Hiltemann, J.-F. Brugère et al., 2018 ASaiM: a Galaxy-based framework to analyze microbiota data. GigaScience 7: giy057.
 * 02/18: DIR="/gpfs/home/guosa/hpc/tools/HUMAnN2"
 * 02/18: humann2_databases --download chocophlan full $DIR
 * 02/18: humann2_databases --download uniref uniref90_diamond $DIR
