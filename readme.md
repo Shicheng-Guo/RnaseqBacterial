@@ -15,6 +15,7 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
+* 02/18: `uniref90_annotated.1.1.dmnd` 11G file size to be downloaed with 20 mins. 
 * 02/18: `pip install humann2` [humann2](http://huttenhower.sph.harvard.edu/humann2) is designed for both meta-genomic and trancriptome data analysis.
 * Franzosa EA*, McIver LJ*, Rahnavard G, Thompson LR, Schirmer M, Weingart G, Schwarzberg Lipson K, Knight R, Caporaso JG, Segata N, Huttenhower C. Species-level functional profiling of metagenomes and metatranscriptomes. Nat Methods 15: 962-968 (2018).
 * `conda install -c bioconda metaphlan2` metaphlan2 is designed for metagenomic, not metatranscriptome data.
