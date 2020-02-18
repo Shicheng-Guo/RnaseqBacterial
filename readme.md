@@ -15,6 +15,11 @@ cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
 
 
 #### Timeline:
+* 02/18: DIR=""
+* 02/18: humann2_databases --download chocophlan full $DIR
+* 02/18: humann2_databases --download uniref uniref90_diamond $DIR
+* 02/18: 13 million reads(~7 GB fastq), 1 core, 6G memeory with UniRef50 EC filtered database  =4 hours 
+* 02/18: 13 million reads(~7 GB fastq), 1 core, 11G memeory with UniRef50 full database         =25 hours 
 * 02/18: `uniref90_annotated.1.1.dmnd` 11G file size to be downloaed with 20 mins. 
 * 02/18: `pip install humann2` [humann2](http://huttenhower.sph.harvard.edu/humann2) is designed for both meta-genomic and trancriptome data analysis.
 * Franzosa EA*, McIver LJ*, Rahnavard G, Thompson LR, Schirmer M, Weingart G, Schwarzberg Lipson K, Knight R, Caporaso JG, Segata N, Huttenhower C. Species-level functional profiling of metagenomes and metatranscriptomes. Nat Methods 15: 962-968 (2018).
